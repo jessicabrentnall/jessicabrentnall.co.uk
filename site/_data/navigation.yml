@@ -8,5 +8,3 @@ menu__settings:
       url: "/blog/"
     - title: "Activity"
       url: "/activity/"
-    - title: "About"
-      url: "/about/"

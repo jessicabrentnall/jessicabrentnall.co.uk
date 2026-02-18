@@ -4,7 +4,7 @@ title:  The Next Chapter
 description: "With big changes at the end of 2025, what does this mean for the coming year?"
 date: 2026-01-10
 image: "/images/posts/2026/01-10.jpg"
-tags: ["2026"]
+tags: ["2026", "personal"]
 ---
 
 ---

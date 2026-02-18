@@ -4,7 +4,7 @@ title: "Goodbye WIT & Thank You"
 description: "A farewell and best luck to the future to the meetup I founded and organised for a number of years."
 date: 2017-07-06
 image: "/images/posts/2017/07-06.jpg"
-tags: ["2017"]
+tags: ["2017", "personal"]
 ---
 
 <br/>

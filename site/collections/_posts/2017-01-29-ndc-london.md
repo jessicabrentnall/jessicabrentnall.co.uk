@@ -4,7 +4,7 @@ title: "My First NDC"
 description: "The experience of volunteering at NDC London 2017"
 date: 2017-01-29
 image: "/images/posts/2017/01-29.jpg"
-tags: ["2017"]
+tags: ["2017", "conf"]
 ---
 
 <br/>

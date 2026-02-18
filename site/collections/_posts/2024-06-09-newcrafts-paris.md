@@ -4,7 +4,7 @@ title:  NewCrafts Paris
 description: "An overview of my experience at NewCrafts Paris"
 date: 2024-06-09
 image: "/images/posts/2024/06-09.jpg"
-tags: ["2024"]
+tags: ["2024", "conf"]
 ---
 
 ---

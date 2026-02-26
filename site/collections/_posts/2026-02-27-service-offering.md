@@ -112,29 +112,48 @@ Both tactical and strategic engagements for technical assessment and advice will
 ---
 
 <center>
-<h2> Why work with me? </h2>
+<h2> My approach and experience. </h2>
 </center> 
 
 ---
 
-I have given an outline of some of the services and value I can provide on a contract basis, but why would you choose to work with me over another option? 
+Above I've written out some of the services I can offer to businesses, but what I view the true value I provide is in how I approach work. It's important to me, and to the success of the projects that I drive that I make efforts to ensure those who are implementing and investing in the solutions understand why they are appropriate, are bought into the solution being the best option and have what they need to maintain it going forward.
 
-### My approach
+From my experience, the best solutions come from working with domain experts and the teams that interact with these systems every day. I provide a level of insight and expertise to identify solutions and how to achieve them, but it is my responsibility to ensure that the people implementing the changes and maintaining those systems going forward understand the justification for those solutions. As part of providing roadmaps and rollouts I would need to make sure that the team have the necessary training and experience for the solution to be appropriate.
 
+This approach is consultative. I want to ensure that any change I propose will provide value to the business, but also won't be detrimental to the experience of the teams supporting it. Throughout my engagement I will bring the supporting teams along the journey. I will make sure we have clear communication lines and that I am being transparent with all the work I conduct and the research and reasoning behind my proposals. Throughout, I will garner feedback from stakeholders at all levels to make sure that the proposals are practical. At the end of the engagement, I'll hand over everything needed so that the future of the work will be successful.
+
+Throughout my career, I've aimed to be a good scout: leave places a little bit better than when you arrive. In my view, the most lasting way to do that is to interact and work with the teams who will continue the work long after you have left.
 
 ### Key experience
 
-- Built and grown teams across engineering and architecture.
-- Led technical change and strategic initiatives aligned to business objectives inc delivery efficiency, cost reduction, resilience and client onboarding.
-- Managed roadmaps and teams with a focus on supporting products and business needs across security, infrastructure, engineering and architecture.
+A lot of my experience is shown on my LinkedIn, and I would be happy to share a CV with anyone who wishes to see it. I've worked in companies of all sizes from startups to large enterprises. I have a breadth of technical experience, and am a senior technical leader. Some key points of my experience include:
+
+- Worked in highly regulated environments (multiple FinTech companies).
 - Engaged in multiple platform migration projects, at all levels including change in hosting provider, onto better suited infrastructure and changing languages and frameworks used.
 - Managed governance and compliance assessments and audits including PCI v4, GDPR and ISO 27001
 - Completed Security and architectural reviews for tenders for contracts with clients.
 - Driven a culture of best practice across teams for techniques and practices including observability, testing, security, governance, IaC and CI/CD.
 - Developed and planned architecture and strategy for multi-cloud environments across Azure and AWS.
+- Built and grown teams across engineering and architecture.
+- Led technical change and strategic initiatives aligned to business objectives inc delivery efficiency, cost reduction, resilience and client onboarding.
+- Managed roadmaps and teams with a focus on supporting products and business needs across security, infrastructure, engineering and architecture.
 
+If there are any specific asks, I'm happy to share whether I have appropriate experience or not in an early stage conversation. 
 
+---
 
+<center>
+<h2> If all the above sounds great: what next? </h2>
+</center> 
+
+---
+
+First of all, thank you for reading this far! 
+
+For full transparency I've had early stage conversations with a couple of companies about potential opportunities. If you are interested in hiring my services in the near term or want information for consideration later down the line, I am more than happy to have a chat. To arrange, the best way to contact me is on LinkedIn. 
+
+For me personally, I'm going to continue studying for my exams during my time off and I will be doing the admin required to set myself up to contract. I will be writing about those experiences as well, as I've had a few people reach out to say they are interested in this journey.
 
 _Hope to hear from you soon._
 

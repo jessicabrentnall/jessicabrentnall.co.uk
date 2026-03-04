@@ -17,7 +17,7 @@ tags: ["2026", "work"]
 
 <br/>
 
-As I've decided that my next role would not be a permanent position, but rather on a contract basis, there were a couple of key things I needed to consider. As a contractor, what do I have to offer a company? Over my career so far, what experience and skills have I developed that provides maximum value to a business in a short period of time, and sets them up for success going forward?
+As I've decided that my next role would not be a permanent position, but rather on a contract basis, there were a couple of key things I needed to consider. As a contractor, what do I have to offer a company? Over my career so far, what experience and skills have I developed that provides maximum value to a business in a short period of time, and sets them up for success going forward? I needed to consider myself as a product.
 
 I have worked in leadership positions in highly regulated environments and been responsible for technical strategies and roadmaps. I've developed and grown departments, fostered engineering cultures that drive innovation and produce quality products and set up recruitment and succession plans. I've grown practices and procedures to ensure businesses are compliant, consider regulation and security as part of design and built bridges between professions for a high level of collaboration. I've assessed pre-loved systems and supported teams in bringing a second lease of life to them, making them maintainable, sustainable and valued again. I've designed and reviewed designs of technical architectures to check that they are appropriate for the needs of the business, are secure and compliant.
 
@@ -158,13 +158,13 @@ If there are any specific asks, I'm happy to share whether I have appropriate ex
 
 ---
 
-First of all, thank you for reading this far! 
+First of all, thank you for reading this far! This was a long one. The plan in the future is to provide this information in a more consumable way. As I build up my time contracting, I will also expand this website to include case studies, service offering pages and more.
 
-For full transparency I've had early stage conversations with a couple of companies about potential opportunities. If you are interested in hiring my services in the near term or want information for consideration later down the line, I am more than happy to have a chat. To arrange, the best way to contact me is on LinkedIn. 
+For full transparency I've had early stage conversations with a couple of companies about potential opportunities. If you are interested in hiring my services later down the line, I am more than happy to have a chat. The best way to contact me is on LinkedIn. 
 
 For me personally, I'm going to continue studying for my exams during my time off and I will be doing the admin required to set myself up to contract. I will be writing about those experiences as well, as I've had a few people reach out to say they are interested in this journey.
 
-_Hope to hear from you soon._
+_I look forward to working with you._
 
 J.
 ---

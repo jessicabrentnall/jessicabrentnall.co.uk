@@ -1,6 +1,7 @@
 <div class="post__navigation animate">
   {% if page.previous.url %}
   <a class="post__prev" href="{{page.previous.url}}">
+    {% unless page.collection == 'services' %}
     <div class="prev__image">
       <img
         loading="lazy"
@@ -8,6 +9,7 @@
         alt="{{ page.title }}"
       />
     </div>
+    {% endunless %}
     <div class="prev__box">
       <span class="post__nav post__nav__prev">Prev post</span>
       <h2 class="post__nav__title">{{page.previous.title}}</h2>
@@ -20,11 +22,13 @@
       <h2 class="post__nav__title">{{page.next.title}}</h2>
     </div>
     <div class="next__image">
+      {% unless page.collection == 'services' %}
       <img
         loading="lazy"
         src="{{site.baseurl}}{{page.next.image}}"
         alt="{{ page.title }}"
       />
+      {% endunless %}
     </div>
   </a>
   {% endif %}

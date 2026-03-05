@@ -21,15 +21,15 @@
       <span class="post__nav post__nav__next">Next post</span>
       <h2 class="post__nav__title">{{page.next.title}}</h2>
     </div>
+    {% unless page.collection == 'services' %}
     <div class="next__image">
-      {% unless page.collection == 'services' %}
       <img
         loading="lazy"
         src="{{site.baseurl}}{{page.next.image}}"
         alt="{{ page.title }}"
       />
-      {% endunless %}
     </div>
+    {% endunless %}
   </a>
   {% endif %}
 </div>

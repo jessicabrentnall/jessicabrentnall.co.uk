@@ -2,7 +2,6 @@
 layout: services
 title: Architectural Project Support
 description: "Analysis and solutions for specific projects/products"
-date: 2026-02-27
 ---
 
 This form of engagement is the most familiar with those who have worked with technical architects before. For a specific problem, I can conduct analysis and provide solutions and guidance.

@@ -2,7 +2,6 @@
 layout: services
 title: Tender Support
 description: "Gap analysis and review to support with client/contract tenders."
-date: 2026-02-27
 ---
 
 

@@ -2,7 +2,6 @@
 layout: services
 title: Engineering Practices Assessment
 description: "Review of teams practices and how to enable a culture of quality and innovation."
-date: 2026-02-27
 ---
 
 

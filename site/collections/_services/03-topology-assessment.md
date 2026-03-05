@@ -2,7 +2,6 @@
 layout: services
 title: Engineering Topology Assessment
 description: "Analysis of teams structure and process to assess alignment to the tech they support."
-date: 2026-02-27
 ---
 
 As well as being a senior technical leader, I have worked as a people leader enacting cultural change. This has included: building and growing teams/departments; promoting quality software through establishing processes, best practices and communities to support teams; building pipelines for recruitment, career growth and stability in organisations and organising team structures around systems to ensure more efficient and stable delivery of change. Technical products are always impacted by the people using them as well as the people building them. Sometimes the means to improve on issues in delivery or stability is best solved through changing culture and topologies rather than the underlying technology. 

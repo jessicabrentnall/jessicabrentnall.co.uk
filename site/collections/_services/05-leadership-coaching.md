@@ -2,7 +2,6 @@
 layout: services
 title: Leadership Coaching
 description: "Regular coaching sessions to enable people to lead and build successful strategies."
-date: 2026-02-27
 ---
 
 I have a lot of experience coaching individuals to help them reach their full potential as technical leaders. This has been through being a manager but also on an independent basis outside of work. I have coached people who are at various stages in their career; from those at the very start through to lead engineers and architects of varying levels of seniority.

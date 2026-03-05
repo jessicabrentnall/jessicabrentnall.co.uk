@@ -2,13 +2,11 @@
 layout: services
 title: High Level Systems Assessment
 description: "High level analysis of systems and platforms to provide direction."
-date: 2026-02-27
 ---
 
 When most people think of Technical Architecture, this is the category of work that immediately comes to mind. Often this can involve assessing existing tech to propose solutions to an emergent issue or it can be the design of a new system to address a problem or need.
 
 I can offer support on a short term (tactical) basis and/or can produce a long term (strategic) plan for businesses.
-
 
 ### Strategic Technical Assessments
 

@@ -1,0 +1,25 @@
+{% assign c = "c-service-card" %}
+<div class="{{c}} col col-4 col-d-6 col-t-12">
+  <div class="{{c}}__inner">
+
+    <div class="{{c}}__content">
+
+      {% if include.post.tags and include.post.tags.size >= 1 %}
+      <div class="{{c}}__tags-box">
+        {% for tag in include.post.tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag | downcase }}" class="{{c}}__tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <h2 class="{{c}}__title">
+        <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+      </h2>
+
+      <p class="{{c}}__excerpt">
+        {% if include.post.description %}{{ include.post.description }}{% else %}{{ include.post.content | strip_html | truncate: 120 }}{% endif %}
+      </p>
+
+    </div>
+  </div>
+</div>

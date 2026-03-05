@@ -38,6 +38,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+  services:
+    output: true
+    permalink: /services/:title/
 
 cloudcannon:
   collections:
@@ -46,6 +49,10 @@ cloudcannon:
     testimonials:
       _icon: "format_quote"
       _subtext_key: position
+      _enabled_editors:
+        - data
+    services:
+      _icon: "build"
       _enabled_editors:
         - data
 

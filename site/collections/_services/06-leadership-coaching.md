@@ -21,7 +21,7 @@ During the first call we will explore the persons level of experience, the areas
 
 The experience of the coaching itself will be tailored to the person engaging in the sessions and their needs.
 
-## Pricing
+## Rates
 
 The sessions will be charged at half a days rate for each session. This is to ensure I am remunerated for the work done outside of the call to prepare and support. 
 

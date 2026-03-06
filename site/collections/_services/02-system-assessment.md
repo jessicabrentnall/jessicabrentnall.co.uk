@@ -4,7 +4,7 @@ title: High Level Systems Assessment
 description: "High level analysis of systems and platforms to provide direction."
 ---
 
-As an architect and senior leader, I have experience of conducting high level systems assessments. They are often necessary to align the technical direction of a platform to achieve businesses long term goals. I am also TOGAF (The Open Group Architecture Framework) certified for those that wish to follow that framework.
+As an architect and senior leader, I have experience of conducting high level systems assessments. They are often necessary to align the technical direction of a platform to achieve businesses long term goals.
 
 There are a few reasons why a company has reached a point where they need help with the technical strategy and direction. A common cause is having engineering teams that have autonomy to make decisions, but without the communication lines in place to have cohesion. This frequently occurs with companies that have gone through significant growth. Aligning these teams under a shared plan of direction can help.
 

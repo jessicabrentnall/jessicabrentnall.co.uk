@@ -1,10 +1,10 @@
 ---
 layout: services
 title: Interim 'Head Of' Positions
-description: ""
+description: "Filling in for senior leadership for a set period of time."
 ---
 
-One of the services I offer is taking on Head Of Architecture or Head of Engineering roles for a short period as an interim hire. 
+One of the services I offer is taking on Head Of Architecture. Head of Platforms or Head of Engineering roles for a short period as an interim hire. 
 
 ## When an "interim" may be needed
 

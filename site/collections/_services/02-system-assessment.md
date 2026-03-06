@@ -4,39 +4,44 @@ title: High Level Systems Assessment
 description: "High level analysis of systems and platforms to provide direction."
 ---
 
-When most people think of Technical Architecture, this is the category of work that immediately comes to mind. Often this can involve assessing existing tech to propose solutions to an emergent issue or it can be the design of a new system to address a problem or need.
+As an architect and senior leader, I have experience of conducting high level systems assessments. They are often necessary to align the technical direction of a platform to achieve businesses long term goals. I am also TOGAF (The Open Group Architecture Framework) certified for those that wish to follow that framework.
 
-I can offer support on a short term (tactical) basis and/or can produce a long term (strategic) plan for businesses.
+There are a few reasons why a company has reached a point where they need help with the technical strategy and direction. A common cause is having engineering teams that have autonomy to make decisions, but without the communication lines in place to have cohesion. This frequently occurs with companies that have gone through significant growth. Aligning these teams under a shared plan of direction can help.
 
-### Strategic Technical Assessments
+## What a High Level Systems Assessment can support.
 
-There are a few reasons why a company has reached a point where they need help with the technical strategy. A common cause is having engineering teams that have autonomy to make decisions, but without the communication lines in place to have cohesion. This frequently occurs with companies that have gone through significant growth.
+There are a number of cases where a systems assessment would be an appropriate first step. 
 
-Examples of work that may require strategic technical assessment include:
-- **Complex project engagements**. This would be for a assessment and change that is large in scope and where I would need to engage with the company to drive the full rollout of the change for a significant amount of time.
-- **Large migration projects**. A large size can be indicative of time frame to complete, complexity/size of the impacted system or degree of the product suite impacted.
-- **Strategic technical direction**. This would be an assessment of the system as a whole, gap analysis, defining target architectures and setting up the business with roadmaps and processes to support.
-- **Tender Support**. For large contracts I can assist with the tender support, gap analysis of the contractual needs and develop roadmaps for how to meet the technical needs asked of your contractual agreements.
+- **Strategic technical direction**. When a business has overarching goals, but needs guidance on how to achieve it, a systems assessment is often a great place to start. This involves a discovery and assessment of the whole platform, leading into a gap analysis. Off the back of a gap analysis a report would be produced that highlights areas of opportunity and where changes can be implemented to work towards the companies goals. Risks can also be highlighted. This information can then be used to plan where more in-depth analysis is needed and/or a program of initial work. 
 
-In general terms an engagement of this type might look like the following: I would first have conversations to understand the businesses goals and values. Then I would conduct a technical assessment of the whole platform/system impacted and have discussions with the teams working on them. Using this information I would put together a deck of candidates of work for prioritisation in a roadmap. For each of these candidates I will share an analysis of the cost and value of the change, as well as options for varying longevity of the change. Once presenting the pack, based on what is agreed, I would then shape the technical roadmap and put in place a process for managing the roadmap going forward. 
+- **Complex Projects**. For projects which impacted large systems and are complex, starting with a high level systems assessment may be advisable. To plan out these projects in the best way possible, you need to start with a good overview of what the current system is and any risks associated, to be able to select the best solution to reach your goals.
 
-**The outcomes of this form of engagement may include:**
-- Gap analysis of the systems.
-- Documented target architecture.
-- A 12 - 24 month roadmap of work.
-- Processes for technical roadmap and integration into existing product roadmaps and planning.
-- Solution and implementation plan for first 3 - 6 months of the roadmap.
+## Format
 
+Before the engagement there would need to be an initial conversation to scope out the requirements. I will about the number of deployed services and rough number and size of teams supporting. I'll also ask about the business goals, what they want from their systems and what outcomes they expect from this engagement.
 
-### Example Delivery Approach
+From these requirements, I'll propose how best to structure the engagement and rough time frames. All of my engagements will be tailored, so there may be a degree of variation.
 
-Both tactical and strategic engagements for technical assessment and advice will typically follow the below structure. All of my engagements will be tailored, so there may be a degree of variation.
-
+And example of the structure of a delivery approach might look like:
 - **Phase 1: Discovery & Assessment.** A focused discovery phase to establish a deep understanding of the business context, current architecture, and organisational design.
-- **Phase 2: Strategy & Target Architecture.** Synthesis of discovery findings into a coherent technical strategy and target-state architecture.
-- **Phase 3: Roadmap & Proposal.** Translation of the agreed strategy into a pragmatic, prioritised roadmap.
-- **Phase 4: Handover.** At the conclusion of the engagement, a structured handover will be conducted to ensure continuity and enable the client to progress delivery independently.
+- **Phase 2: Gap Analysis Report**. A gap analysis and report of the findings.This will highlight areas for change and improvement.
+- **Phase 3: Strategy Proposal** Synthesis of discovery findings into a coherent technical strategy.
+- **Phase 4: Roadmap & Target Architectures** Translation of the agreed strategy into a high level roadmap and any short term supporting target architectures.
+- **Phase 5: Handover.** At the conclusion of the engagement, a structured handover will be conducted to ensure continuity and enable the client to progress delivery independently.
 
+## Example Expected Outcomes 
+
+At the start fo the engagement, we will agree to expected outcomes at each phase of the engagement. These will be defined deliverables.
+
+An examples of what these agreed deliverables might look like are as follows:
+
+- Gap analysis of the systems.
+- Detailed report on areas for change with cost/value analysis.
+- High level plans/roadmap to achieve business goals.
+
+## Rates
+
+I am open to both inside and outside of IR35 contracts. Please reach out for details.
 
 ---
 

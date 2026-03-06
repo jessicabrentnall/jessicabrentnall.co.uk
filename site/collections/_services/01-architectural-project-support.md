@@ -14,7 +14,7 @@ There are many types of project I can engage in. I have experience in full stack
 
 - **Project engagements**. Can include improvements to performance, cost efficiencies, resilience or security for a specific product or area of the system.
 
-- **Scoped migration projects**. Including migrating to a different technology or tooling choice and/or data migrations. The size of the project would determine if its appropriate for a short term engagement or needs a more strategic/long term approach.
+- **Migration projects**. Including migrating to a different technology or tooling choice and/or data migrations. The size of the project would determine if its appropriate for a short term engagement or needs a more strategic/long term approach.
 
 - **Compliant Architecture (PCI, GDPR etc)**. For either existing or new projects, I can consult on how to design a compliant system.
 

@@ -4,27 +4,49 @@ title: Interim 'Head Of' Positions
 description: "Filling in for senior leadership for a set period of time."
 ---
 
-One of the services I offer is taking on Head Of Architecture. Head of Platforms or Head of Engineering roles for a short period as an interim hire. 
 
-## When an "interim" may be needed
+One of the services I offer is taking on Head of Architecture, Head of Platform, or Head of Engineering roles on an interim basis.
 
-There are a couple of scenarios where you may need a Head Of for a set amount of time.
+These engagements provide organisations with experienced technical leadership for a defined period of time, ensuring continuity of leadership and strategic direction while the business navigates periods of transition.
 
-- **Cover during leave**. It may be that you have a Head Of that needs time away for parental leave, sickness or even a sabbatical. During this time I can contract to cover their position, work and responsibilities. 
-- **Cover while hiring a permanent placement**. Hiring into a senior position can be a lengthy process, and businesses want to make the right hire rather than rush. Over this period of time I can cover the responsibilities, and then hand over when a permanent hire is found.
-- **Stand-in while upskilling current hire**. Another scenario can be that you want to promote a current hire into the role, but have concerns around their level of experience. If you are looking to phase a person into the role, I can cover the responsibilities they aren't ready for and be involved into transitioning the role over to them.
+## When an Interim Leader May Be Needed
 
-## Format 
+There are several scenarios where bringing in an interim Head of Architecture, Platform, or Engineering can be beneficial.
 
-The format would depend on the business context and needs. A preliminary discussion would be required to understand the expectations and give clarity for if I was the right person to cover.
+### Cover During Leave
+
+A senior leader may require time away from the business due to parental leave, illness, or a sabbatical. During this period, I can step into the role to maintain continuity of leadership, ensuring teams remain aligned and strategic initiatives continue to progress.
+
+### Cover While Hiring a Permanent Leader
+
+Recruiting into senior technical leadership positions can take time, and organisations often want to avoid rushing such an important hire. An interim leader can provide stability during the recruitment process, ensuring the organisation continues to move forward until a permanent appointment is made.
+
+### Supporting the Transition of an Internal Promotion
+
+In some cases, organisations wish to promote an internal candidate into a leadership role but recognise that the individual may benefit from additional experience or a phased transition.
+
+In these situations, I can temporarily cover aspects of the role while mentoring the internal candidate and supporting a structured transition into full leadership responsibility.
+
+## Engagement Format
+
+The exact format of the engagement will depend on the organisation’s context and leadership needs.
+
+An initial discussion will allow us to:
+- Clarify the scope of responsibilities
+- Understand the organisational structure and current challenges
+- Define expectations for the interim leadership role
+- Determine whether I am the right fit for the organisation
+
+Following this discussion, we can agree on an engagement structure that provides the leadership support required while ensuring a smooth transition back to a permanent role holder.
 
 ## Rates
 
-I am open to both inside and outside of IR35 contracts. Please reach out for details.
+Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+
+Day rates and commercial arrangements can be discussed following the initial scoping conversation.
 
 ---
 
 <div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/images/logo.png" alt="Logo">
 </div>
-

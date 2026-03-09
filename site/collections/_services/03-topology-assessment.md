@@ -27,6 +27,7 @@ In these situations, reviewing how teams are organised around systems and capabi
 
 ## Types of Engagement
 
+I have seen many organisations reach this stage as their systems and teams scale. There are a couple of forms of engagement I can offer to support.
 
 ### Engineering Topology Assessment
 

@@ -1,9 +1,17 @@
-{% if include.show_posts %}
+{% if include.show_posts or include.show_services %}
 <div class="container animate">
   <div class="row" data-pagebreak="6">
-    {% for post in site.posts %}
-      {% bookshop blog-card post=post %}
-    {% endfor %}
+    {% if include.show_posts %}
+      {% for post in site.posts %}
+        {% bookshop blog-card post=post %}
+      {% endfor %}
+    {% endif %}
+
+    {% if include.show_services %}
+      {% for post in site.services %}
+        {% bookshop blog-card post=post %}
+      {% endfor %}
+    {% endif %}
   </div>
 </div>
 

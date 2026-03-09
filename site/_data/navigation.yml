@@ -4,6 +4,8 @@ menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
+    - title: "Services"
+      url: "/services/"
     - title: "Blog"
       url: "/blog/"
     - title: "Activity"

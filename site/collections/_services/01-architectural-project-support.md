@@ -4,52 +4,74 @@ title: Architectural Project Support
 description: "Analysis and solutions for specific projects/products"
 ---
 
-This form of engagement is the most familiar with those who have worked with technical architects before. For a specific problem, I can conduct analysis and provide solutions and guidance.
+This is the most familiar form of engagement for organisations that have previously worked with technical architects. For a specific problem or initiative, I conduct analysis and provide clear architectural recommendations, solutions, and implementation guidance.
 
-It is the most appropriate engagement if the business has a specific and scoped problem it wants solutions to. It is also a good option if you want to try out engaging my consultancy before committing to a more strategic engagement.
+This model works best when the business has a well-defined problem or scoped initiative that requires architectural input.
 
-## Types of project
+It can also be a good option for organisations that want to trial my consultancy services before committing to a broader strategic engagement.
 
-There are many types of project I can engage in. I have experience in full stack technical architecture projects from product down to infrastructure (AWS, Azure and on-premise). Examples of where I can provide architectural project support include: 
+## Types of Projects
 
-- **Project engagements**. Can include improvements to performance, cost efficiencies, resilience or security for a specific product or area of the system.
+I can support a wide range of architectural initiatives. My experience spans full-stack technical architecture, from product and platform design down to infrastructure (AWS, Azure, and on-premise environments).
 
-- **Migration projects**. Including migrating to a different technology or tooling choice and/or data migrations. The size of the project would determine if its appropriate for a short term engagement or needs a more strategic/long term approach.
+Examples of projects where I can provide architectural support include:
 
-- **Compliant Architecture (PCI, GDPR etc)**. For either existing or new projects, I can consult on how to design a compliant system.
+### Project Architecture Engagements
+Improving performance, cost efficiency, resilience, scalability, or security for a specific product or area of a system.
 
-- **Data design**. Projects may include plans and proposals for ensuring compliance (contractual or regulatory) in data systems through design.
+### Migration Projects
+Supporting migrations to new technologies, platforms, or tooling. This may include application migrations, infrastructure changes, or data migrations. The scale of the migration will determine whether a short-term engagement is appropriate or if a longer strategic engagement is required.
 
-- **API / Event Design**. Consulting on contracts and design of patterns for data in transit.
+### Compliance Architecture (PCI, GDPR, etc.)
+Designing or reviewing systems to ensure they meet regulatory and contractual compliance requirements.
 
-## Format 
+### Data Architecture & Design
+Designing data systems that support regulatory compliance, contractual obligations, and long-term data governance through robust architectural patterns.
 
-Before the engagement there would need to be an initial conversation to scope out the requirements. I will ask what the problem is that the business wants advice for, the number of deployed services and rough number and size of teams supporting. I'll ask what outcomes the business is hoping for from this engagement (ie. solution to save cost, plan to implement a migration).
+### API and Event Architecture
+Defining clear service contracts and architectural patterns for APIs and event-driven systems to ensure scalability, maintainability, and reliability of data in transit.
 
-From these requirements, I'll propose how best to structure the engagement and rough time frames. All of my engagements will be tailored, so there may be a degree of variation.
+## Engagement Format
 
-And example of the structure of a delivery approach might look like:
-- **Phase 1: Discovery & Assessment.** A focused discovery phase to establish a deep understanding of the business context, current architecture, and organisational design.
-- **Phase 2: Strategy & Target Architecture.** Synthesis of discovery findings into a coherent technical strategy and target-state architecture.
-- **Phase 3: Roadmap & Proposal.** Translation of the agreed strategy into a pragmatic, prioritised roadmap.
-- **Phase 4: Handover.** At the conclusion of the engagement, a structured handover will be conducted to ensure continuity and enable the client to progress delivery independently.
+Before starting any engagement, we will hold an initial scoping conversation to understand the problem space and define the most appropriate engagement structure.
 
-## Example Expected Outcomes 
+During this discussion I will typically ask about:
+- The specific problem or challenge the business wants advice on
+- The number of deployed services or systems involved
+- The approximate size and structure of the teams supporting the platform
+- The outcomes the business hopes to achieve (e.g., cost reduction, migration plan, improved system resilience)
 
-At the start fo the engagement, we will agree to expected outcomes at each phase of the engagement. These will be defined deliverables.
+Based on this information, I will propose an engagement structure along with estimated timelines.
 
-An examples of what these agreed deliverables might look like are as follows:
+Each engagement is tailored to the organisation and problem, but a typical delivery structure may include:
 
-- Assessment of problem statement area and gap analysis.
-- Deck of potential solutions and cost/value analysis of each.
-- Documented current architectures.
-- Documented target architectures.
-- Implementation plan for the solution approved by the business.
-- Fully documented handover to stakeholders and teams to enable them to enact the changes.
+#### Phase 1: Discovery & Assessment
+A focused discovery phase to establish a deep understanding of the business context, current architecture, and organisational design.
+#### Phase 2: Strategy & Target Architecture
+Synthesis of discovery findings into a coherent technical strategy and target-state architecture.
+#### Phase 3: Roadmap & Proposal
+Translation of the agreed strategy into a pragmatic, prioritised roadmap.
+#### Phase 4: Handover
+A structured handover at the conclusion of the engagement to ensure stakeholders and delivery teams can confidently execute the recommended changes.
+
+## Example Expected Outcomes
+
+At the start of the engagement we will agree on specific deliverables and outcomes for each phase.
+
+Examples of deliverables may include:
+
+ - Assessment of the problem area and architectural gap analysis
+- Solution options with cost/value analysis and trade-offs
+- Documented current-state architecture
+- Documented target-state architecture
+- A practical implementation plan approved by the business
+- Structured documentation and knowledge transfer to enable teams to implement the changes
 
 ## Rates
 
-I am open to both inside and outside of IR35 contracts. Please reach out for details.
+Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+
+Day rates and commercial arrangements can be discussed following the initial scoping conversation.
 
 ---
 

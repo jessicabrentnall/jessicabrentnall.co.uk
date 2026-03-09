@@ -4,48 +4,83 @@ title: High Level Systems Assessment
 description: "High level analysis of systems and platforms to provide direction."
 ---
 
-As an architect and senior leader, I have experience of conducting high level systems assessments. They are often necessary to align the technical direction of a platform to achieve businesses long term goals.
+As an architect and senior technology leader, I have extensive experience conducting high-level systems assessments. These engagements are often necessary to ensure the technical direction of a platform aligns with a company’s long-term business goals.
 
-There are a few reasons why a company has reached a point where they need help with the technical strategy and direction. A common cause is having engineering teams that have autonomy to make decisions, but without the communication lines in place to have cohesion. This frequently occurs with companies that have gone through significant growth. Aligning these teams under a shared plan of direction can help.
+Organisations typically reach a point where external architectural guidance is needed to help define or realign their technical strategy. This often occurs during periods of rapid growth, when engineering teams are given autonomy to make local decisions but lack the communication structures needed to maintain platform-wide cohesion.
 
-## What a High Level Systems Assessment can support.
+A systems assessment provides an opportunity to step back and evaluate the platform as a whole, identifying areas where improved alignment, architectural consistency, or strategic direction can help the organisation move forward more effectively.
 
-There are a number of cases where a systems assessment would be an appropriate first step. 
+## What a High-Level Systems Assessment Can Support
 
-- **Strategic technical direction**. When a business has overarching goals, but needs guidance on how to achieve it, a systems assessment is often a great place to start. This involves a discovery and assessment of the whole platform, leading into a gap analysis. Off the back of a gap analysis a report would be produced that highlights areas of opportunity and where changes can be implemented to work towards the companies goals. Risks can also be highlighted. This information can then be used to plan where more in-depth analysis is needed and/or a program of initial work. 
+There are several scenarios where a systems assessment can be a valuable first step.
 
-- **Complex Projects**. For projects which impacted large systems and are complex, starting with a high level systems assessment may be advisable. To plan out these projects in the best way possible, you need to start with a good overview of what the current system is and any risks associated, to be able to select the best solution to reach your goals.
+### Strategic Technical Direction
 
-## Format
+When a business has clear long-term objectives but lacks a defined technical path to achieve them, a systems assessment can provide the necessary clarity.
 
-Before the engagement there would need to be an initial conversation to scope out the requirements. I will about the number of deployed services and rough number and size of teams supporting. I'll also ask about the business goals, what they want from their systems and what outcomes they expect from this engagement.
+This involves discovery and analysis of the existing platform architecture, followed by a gap analysis that identifies where the current state differs from what is required to support the organisation’s goals.
 
-From these requirements, I'll propose how best to structure the engagement and rough time frames. All of my engagements will be tailored, so there may be a degree of variation.
+The outcome is a structured report highlighting:
+- Opportunities for architectural improvement
+- Areas of technical risk
+- Strategic options for evolving the platform
 
-And example of the structure of a delivery approach might look like:
-- **Phase 1: Discovery & Assessment.** A focused discovery phase to establish a deep understanding of the business context, current architecture, and organisational design.
-- **Phase 2: Gap Analysis Report**. A gap analysis and report of the findings.This will highlight areas for change and improvement.
-- **Phase 3: Strategy Proposal** Synthesis of discovery findings into a coherent technical strategy.
-- **Phase 4: Roadmap & Target Architectures** Translation of the agreed strategy into a high level roadmap and any short term supporting target architectures.
-- **Phase 5: Handover.** At the conclusion of the engagement, a structured handover will be conducted to ensure continuity and enable the client to progress delivery independently.
+This insight can then inform future technical initiatives, deeper architectural analysis, or a structured programme of change.
 
-## Example Expected Outcomes 
+### Complex or Large-Scale Projects
 
-At the start fo the engagement, we will agree to expected outcomes at each phase of the engagement. These will be defined deliverables.
+For large or technically complex initiatives that impact multiple systems or teams, starting with a high-level systems assessment can significantly improve project outcomes.
 
-An examples of what these agreed deliverables might look like are as follows:
+A clear understanding of the current platform architecture, dependencies, and risks enables organisations to make better architectural decisions early in the process, reducing the likelihood of costly redesigns later.
 
-- Gap analysis of the systems.
-- Detailed report on areas for change with cost/value analysis.
-- High level plans/roadmap to achieve business goals.
+## Engagement Format
+
+Before beginning an engagement, we will have an initial scoping conversation to understand the organisation’s current platform and strategic goals.
+
+During this discussion I will typically ask about:
+- The number of deployed services or systems.
+- The approximate size and structure of engineering teams.
+- Key business objectives for the platform.
+- The outcomes the organisation hopes to achieve from the engagement.
+
+Based on this information, I will propose an engagement structure and estimated timelines.
+
+Each engagement is tailored to the organisation, but a typical delivery structure may include:
+
+#### Phase 1: Discovery & Assessment
+A focused discovery phase to develop a clear understanding of the business context, current architecture, and organisational structure.
+
+#### Phase 2: Gap Analysis Report
+A structured analysis of the current system landscape, highlighting architectural gaps, technical risks, and opportunities for improvement.
+
+#### Phase 3: Strategy Proposal
+Synthesis of discovery findings into a coherent technical strategy aligned with the organisation’s business goals.
+
+#### Phase 4: Roadmap & Target Architectures
+Translation of the agreed strategy into a high level roadmap and any short term supporting target architectures.
+
+#### Phase 5: Handover
+A structured handover to ensure internal teams can confidently move forward with the proposed changes.
+
+## Example Expected Outcomes
+
+At the start of the engagement we will agree on specific deliverables for each phase.
+
+Examples of deliverables may include:
+
+- Platform-wide architectural gap analysis
+- Detailed report highlighting areas for improvement and technical risk
+- Cost/value analysis of potential architectural changes
+- High-level plans/roadmap aligned with business goals
 
 ## Rates
 
-I am open to both inside and outside of IR35 contracts. Please reach out for details.
+Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+
+Day rates and commercial arrangements can be discussed following the initial scoping conversation.
 
 ---
 
 <div style="text-align:center" markdown="1">
 <img src="{{site.baseurl}}/images/logo.png" alt="Logo">
 </div>
-

@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Interim 'Head Of' Positions
-description: "Filling in for senior leadership for a set period of time."
+description: "Experienced interim leadership to maintain continuity and strategic direction."
 ---
 
 

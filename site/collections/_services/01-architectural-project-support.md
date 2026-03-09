@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Architectural Project Support
-description: "Analysis and solutions for specific projects/products"
+description: "Targeted architectural guidance for specific projects/products."
 ---
 
 This is the most familiar form of engagement for organisations that have previously worked with technical architects. For a specific problem or initiative, I conduct analysis and provide clear architectural recommendations, solutions, and implementation guidance.

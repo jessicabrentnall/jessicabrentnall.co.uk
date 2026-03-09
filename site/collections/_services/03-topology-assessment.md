@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Engineering Topology Assessment
-description: "Analysis of teams structure and process to assess alignment to the tech they support."
+description: "Optimising team structure and interactions to accelerate delivery and clarify ownership."
 ---
 
 In some organisations, the way engineering teams are structured can significantly impact the ability to deliver software effectively. For smaller systems supported by only a few engineers, this is often less noticeable. However, as systems grow in size and complexity, team structure becomes increasingly important.

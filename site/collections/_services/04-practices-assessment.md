@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Engineering Practices Assessment
-description: "Review of teams practices and how to enable a culture of quality and innovation."
+description: "Assessing engineering practices to foster quality, innovation, and scalable delivery."
 ---
 
 There are engineering processes and practices that help teams build and maintain reliable, high-quality systems. However, when introducing or evolving these practices, it is important that they support teams rather than create unnecessary overhead.

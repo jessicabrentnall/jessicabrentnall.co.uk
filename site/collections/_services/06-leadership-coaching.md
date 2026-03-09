@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Leadership Coaching
-description: "Regular coaching sessions to enable people to lead and build successful strategies."
+description: "Coaching technical leaders to grow influence, lead teams, and deliver strategic impact."
 ---
 
 I have extensive experience coaching engineers and architects to help them reach their full potential as technical leaders. This experience comes both from my time as an engineering manager and through independent mentoring outside of formal roles.

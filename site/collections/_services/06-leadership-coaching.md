@@ -4,28 +4,73 @@ title: Leadership Coaching
 description: "Regular coaching sessions to enable people to lead and build successful strategies."
 ---
 
-I have a lot of experience coaching individuals to help them reach their full potential as technical leaders. This has been through being a manager but also on an independent basis outside of work. I have coached people who are at various stages in their career; from those at the very start through to lead engineers and architects of varying levels of seniority.
+I have extensive experience coaching engineers and architects to help them reach their full potential as technical leaders. This experience comes both from my time as an engineering manager and through independent mentoring outside of formal roles.
 
-Some of the areas I offer coaching on will include:
+I have worked with individuals at many different stages of their careers, from engineers early in their professional journey through to lead engineers and architects operating at senior levels.
 
-- **Leading a specific project**. This would include managing planning, roadmapping, appropriate stakeholder engagement, working across teams and gaining buy-in and trust. Through regular sessions I would support the person, advise and help them identify the best way to manage the project.
-- **Strategic systems thinking**. During sessions I would provide advise and techniques to allow the person to identify work, raise it and plan into a companies roadmap.
-- **Growth and development plans**. For the first session we would work together to understand the persons strengths in their role and identify the areas they are weaker in. Through conversation we'd agree their career aims and I would support in developing a growth plan for how they can address the areas of weakness. 
-- **Managing a technical team**. To coach those who are responsible for managing technical teams. This includes techniques for managing work in the team to share and strengthen members skill-sets and managing high-performers. 
+The goal of these sessions is to help technical professionals develop the skills, mindset, and confidence required to operate effectively in leadership roles.
 
-## Format 
+## Areas of Coaching
 
-The coaching sessions will be run on a regular cadence which would be agreed at the start of the engagement. Likely, this will be a one hour call once every two weeks or once a month. 
+Coaching sessions are tailored to the individual, but common areas of focus include:
 
-During the first call we will explore the persons level of experience, the areas they want coaching and if there is a specific project they need the coaching for or goal they aim to reach. This will enable us to identify the best cadence and structure for future sessions.
+### Leading a Specific Project
 
-The experience of the coaching itself will be tailored to the person engaging in the sessions and their needs.
+Supporting engineers or architects who are responsible for leading a significant technical initiative.
+
+This may include guidance on:
+- Planning and roadmap development.
+- Stakeholder engagement and communication.
+- Working effectively across multiple teams.
+- Building trust and gaining organisational buy-in.
+
+Through regular sessions, I help individuals navigate the challenges of leading complex projects and identify the most effective ways to move initiatives forward.
+
+### Strategic Systems Thinking
+
+Helping individuals develop the ability to think about systems and platforms at a strategic level.
+
+This includes techniques for:
+- Identifying strategic technical work.
+- Framing proposals for architectural change.
+- Aligning technical improvements with business goals.
+- Contributing effectively to company roadmaps
+
+### Career Growth and Development Planning
+
+During the initial sessions we will work together to understand the individual’s strengths, areas for development, and long-term career aspirations.
+
+From this, we will create a structured development plan focused on strengthening key skills and building the experience needed to reach their desired career trajectory.
+
+### Managing a Technical Team
+
+For individuals who are responsible for managing engineering teams, coaching can focus on developing leadership and management capabilities.
+
+Topics may include:
+- Structuring and prioritising work within a team.
+- Developing and mentoring team members.
+- Building balanced teams with complementary skill sets.
+- Managing and supporting high-performing engineers.
+
+## Engagement Format
+
+Coaching sessions take place on a regular cadence, agreed at the start of the engagement. Typically this will be a one-hour session every two weeks, or a one-hour session once per month.
+
+During the first session we will explore:
+- The individual’s experience and current role.
+- The areas where they are seeking coaching.
+- Any specific projects or challenges they are currently facing.
+- Their longer-term career goals.
+
+This allows us to define a structure and focus for future sessions.
+
+The coaching approach is fully tailored to the individual, ensuring that sessions remain relevant to their needs and professional development.
 
 ## Rates
 
-The sessions will be charged at half a days rate for each session. This is to ensure I am remunerated for the work done outside of the call to prepare and support. 
+Coaching sessions are charged at half a day’s rate per session. This reflects not only the session itself, but also the preparation and follow-up work required to ensure each session delivers meaningful value.
 
-It would be best if these sessions were paid for by an employer, to help with an individuals development, rather than by an individual themselves.
+In most cases, coaching engagements are sponsored by the individual’s employer as part of their professional development, although other arrangements can be discussed if required.
 
 ---
 

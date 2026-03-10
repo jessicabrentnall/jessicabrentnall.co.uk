@@ -106,7 +106,7 @@ This website is built using:
 ## Gotchas
 
 - When running locally, you will only see posts that are in the past or dated for the current day.
-- Sometimes the `.html`'s are not automatically removed from urls, breaking the websites paths post deployment
+- Tag pages are now transformed into folder-based URLs during the build step, so you no longer need to strip `.html` after deployment. This happens automatically in CI and via the `npm run build` script.
 
 ## Deployment pipeline
 ---

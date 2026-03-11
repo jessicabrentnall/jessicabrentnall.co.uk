@@ -35,6 +35,19 @@ jobs:
       run: |
         bundle exec jekyll build
 
+    - name: Convert tag pages to folders
+      working-directory: ./site
+      run: |
+        # jekyll-tagging produces flat .html files under _site/tag;
+        # AWS website hosting and CloudFront prefer directory indexes
+        echo "Rewriting tag pages to use index.html directories"
+        for f in _site/tag/*.html; do
+          [ -e "$f" ] || continue
+          name=$(basename "$f" .html)
+          mkdir -p "_site/tag/$name"
+          mv "$f" "_site/tag/$name/index.html"
+        done
+
 
     - name: Configure AWS CLI
       uses: aws-actions/configure-aws-credentials@v6

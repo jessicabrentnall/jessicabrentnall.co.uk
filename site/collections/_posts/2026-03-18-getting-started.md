@@ -19,21 +19,16 @@ tags: ["2026", "work"]
 
 In the past, when I've thought about pursuing contract roles instead of permanent placements, part of what deterred me was the practicalities of getting set up. Luckily, there is a wealth of information online, and many companies offering support to make the process painless.
 
-This past week or so I've been taking the necessary actions to be ready for my first contract.
+This past week or so I've been taking the necessary actions to be ready for my first contract. I needed to be be able to confirm contracts, manage business expenses, receive payments and not get in trouble with HMRC.
 
-## The To-Do List
+## The Essentials
 
-The initial list of activities to be ready for taking on contracts were to:
-
-- Set up company
-- Find an accountant
-- Set up business bank account
-- Find someone to review contracts
-- Consider insurance
-
-Once this was complete I would be able to confirm contracts, manage business expenses, receive payments and not get in trouble with HMRC.
-
-## The Solution I Opted For
+To be ready to take on work I needed to have:
+- a company set up.
+- an accountant and advice on managing my accounts.
+- a business bank account.
+- someone to assess any contracts to ensure they are compliant with tax laws.
+- any necessary insurance policies.
 
 After researching, I decided to use a company that offered to do the most of the work for me, rather than manage these concerns myself. 
 
@@ -41,13 +36,13 @@ After researching, I decided to use a company that offered to do the most of the
 <p><i> The following is not an advert.</i></p>
 </center>
 
-**✔ Set up company**
+### ✔ Set up company
 
 [Gorilla](https://gorillaaccounting.com/) have an offering to form a limited company. This includes registration with Companies House, Certificate of incorporation and Memorandum and articles of association.
 
 The most difficult thing I needed to do as part of this process was decide on a name for my business. I have decided on **JBrentnall Digital**. It took and embarrassing amount of thought and consideration to figure out what to call my company, but we all know naming is hard!
 
-**✔ Find an accountant**
+### ✔ Find an accountant
 
 I also chose to use [Gorilla](https://gorillaaccounting.com/) for my accountancy needs. It's been really easy working with them. Once the company was set up, they assigned one of their accountants to my business. 
 
@@ -60,7 +55,7 @@ The conversation included:
 
 It was agreed that a later call would be set up once I had a bank account set up so that we could walk through the accountancy software I would need to use. In this case I will be using [FreeAgent](https://www.freeagent.com/).
 
-**✔ Set up business bank account**
+### ✔ Set up business bank account
 
 The choice of where to set up the business bank account was guided by Gorilla as well. They suggested [Mettle by NatWest](https://www.mettle.co.uk/) as it's got a handy integration into FreeAgent, making managing accountancy easier. 
 
@@ -68,13 +63,13 @@ In terms of experience, the application form for setting up the business bank ac
 
 It can take up to 10 days for an account to be set up so you'll want to do this in advance of any contract.
 
-**✔ Find someone to review contracts**
+### ✔ Find someone to review contracts
 
 It's recommended to have a lawyer (or solicitor) assess any contracts to ensure they are compliant with tax laws and helps demonstrate "reasonable care" to HMRC, minimizing risks of penalties
 
 <h3 style="color:red;">I'll update this post with details and how I found the company providing this service once it's done.</h3>
 
-**✔ Consider insurance**
+### ✔ Consider insurance
 
 <h3 style="color:red;">Update this once insurance sorted.</h3>
 

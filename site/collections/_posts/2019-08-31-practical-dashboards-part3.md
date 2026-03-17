@@ -4,7 +4,7 @@ title: Metric Baselines For APIs
 description: "Part Three of A Practical Guide To Dashboarding. Standardised baselines for measuring API behaviour and how they can be used."
 date: 2019-08-31
 image: "/images/posts/2019/08-31.jpg"
-tags: ["2019"]
+tags: ["2019", "observability"]
 ---
 
 ---
@@ -15,8 +15,6 @@ tags: ["2019"]
 
 ---
 
-<br/>
-
 As mentioned in the <a href="{{site.baseurl}}/blog/practical-dashboards-part1" target="_blank">previous post</a> having baselines for dashboards can be useful for a variety of reasons.
 
 - Recognising patterns for where to investigate when something goes wrong in your system.
@@ -24,8 +22,6 @@ As mentioned in the <a href="{{site.baseurl}}/blog/practical-dashboards-part1" t
   In this post, we shall explore how this applies to metrics measuring the health of APIs.
 
 ## Two Recommended Baselines
-
----
 
 In this blog I am going to go through two main patterns for baselines of metrics for APIs.
 
@@ -62,9 +58,7 @@ If the traffic is at expected levels, and there are problems elsewhere, it may n
 <img src="{{site.baseurl}}/images/posts/2019/08-31/traffic.png" alt="Errors">
 </div>
 
----
-
-_Analogy: In the picture, the latency is represented by how many cars cross the finish line in a set amount of times._
+ _Analogy: In the picture, the latency is represented by how many cars cross the finish line in a set amount of times._
 
 ---
 
@@ -82,8 +76,6 @@ The reason to measure the difference between success and failing calls is becaus
 <img src="{{site.baseurl}}/images/posts/2019/08-31/error.png" alt="Errors">
 </div>
 
----
-
 _Analogy: There's no analogy here. An error is an error. It's just an excuse to draw Clippy._
 
 ---
@@ -96,11 +88,7 @@ First we need to know the limits of our baselines. How much traffic can the API 
 
 When we know what 100% looks like, we can then measure how close to this max we are at - or the degree to which it is saturated.
 
-<br/>
-
 ## [R.E.D](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
-
----
 
 RED, which is discussed in this blog written by [Peter Bourgon](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html), is a mnemonic coined by Tom Wilkie. Much like Brendan's Gregg USE methods for measuring system resources and services, RED is suggested as baseline measurements for API's.
 
@@ -118,11 +106,7 @@ Unlike, the Google definition of Error, this definition doesn't take in the comp
 
 This is the same as Googles "Latency" measurement. The time between request and response.
 
-<br/>
-
 ## Some of the ways these measurements can be used
-
----
 
 ### Count of success vs error.
 
@@ -154,11 +138,7 @@ The ideal situation is a short latency for both errors (if there are any) and su
 
 There are numerous behaviours that can suggest things going wrong in the API just by these few baseline metrics.
 
-<br/>
-
 ## Summary
-
----
 
 Hopefully, this has demonstrated some of the baselines you can use to help diagnose problems with your APIs and what different behaviours might help guide our actions for fixing those issues.
 
@@ -166,8 +146,11 @@ I'll emphasise again that these are but one part of monitoring and should be use
 
 These metrics I have found useful in my past work places and I hope to eventually implement in my current work for the same reasons. I hope you find them helpful too.
 
+_Good luck._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

@@ -4,7 +4,7 @@ title: Who Needs Dashboards?
 description: "An overview of the different types of dashboards and what they are for."
 date: 2017-10-25
 image: "/images/posts/2017/10-25.jpg"
-tags: ["2017"]
+tags: ["2017", "observability"]
 ---
 
 ---
@@ -230,5 +230,5 @@ Thank you to: [Darren Whitworth](https://www.linkedin.com/in/darrenwhitworth1/),
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

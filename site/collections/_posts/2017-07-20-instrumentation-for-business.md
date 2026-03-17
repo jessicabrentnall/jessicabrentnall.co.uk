@@ -4,7 +4,7 @@ title: Implementing Instrumentation For Business Need
 description: "A case study on driving instrumentation through business requirements"
 date: 2017-07-20
 image: "/images/posts/2017/07-20.jpg"
-tags: ["2017"]
+tags: ["2017", "observability"]
 ---
 
 <br/>
@@ -115,10 +115,13 @@ These dashboards have been built using existing software, and as we move to usin
 
 The aim is to eventually build team specific dashboards as well as feature specific dashboards. For example, it would be great if the sales or customer service teams had a dashboard they could understand that shows when certain features of the website goes down. They could then be trained on how to respond when these outages occur.
 
-There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post...
+There are many ways in which this work could develop and grow. It's an area I could discuss at length and that's exactly what I’m going to do in a future blog post.
 
+_I can't wait._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

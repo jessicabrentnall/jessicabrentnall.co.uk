@@ -92,8 +92,9 @@ To those joining the board; good luck! I hope you enjoy the experience! Never he
 
 _Keep up the great efforts_
 
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

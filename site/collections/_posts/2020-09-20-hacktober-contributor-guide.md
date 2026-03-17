@@ -222,10 +222,12 @@ I hope that the experiences you have in October encourage you to keep contributi
 
 _Happy Hacking_
 
+J.
+
 _Edits made: 4th October 2020_
 
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

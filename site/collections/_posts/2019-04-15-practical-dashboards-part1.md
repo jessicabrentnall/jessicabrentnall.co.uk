@@ -4,7 +4,7 @@ title: Introduction To Baselines for Dashboards
 description: "Part One of A Practical Guide To Dashboarding. Why dashboards are important and how to keep them useful."
 date: 2019-04-15
 image: "/images/posts/2019/04-15.jpg"
-tags: ["2019"]
+tags: ["2019", "observability"]
 ---
 
 ---
@@ -26,11 +26,7 @@ What baselines have been proposed for certain use cases and how they have worked
 
 As with all my posts, this is all based on personal experience. I'm not saying it's right or wrong, but it's something I have found valuable and wish to share my thoughts on.
 
-<br/>
-
 ## Let's Chat Metrics
-
----
 
 For the following posts, much like the previous chapter, I will be talking about metrics as opposed to diagnostics.
 
@@ -53,8 +49,6 @@ I will not be covering any aspects of monitoring beyond dashboarding for this se
 <br/>
 
 ## Learning from car dashboards
-
----
 
 In previous posts, I've written about how the car dashboards are, in my opinion, one of the best designed visual displays of information. I've written about a couple of aspects of car dashboards we can adapt and learn from, to improve the visualisations we create to display the state of our systems - software, hardware, business or otherwise.
 
@@ -130,11 +124,7 @@ This is a powerful characteristic of car dashboards. There is a standard baselin
 
 What if we applied a similar idea to the dashboards and visualisations that tell us about the state of our software, infrastructure? It could be the case that by having standards for how we demonstrate information, we can make it easier to share information or work across teams. For example, a developer could go from one team to another and be able to understand the high-level state of the domain by looking at their dashboards, because API/service metrics are displayed the same way in the other teams they have worked in. Likewise, other teams and other technical departments would be able to interpret these boards easily, and without assistance, if needed.
 
-<br/>
-
 ## Standardised Baselines
-
----
 
 This is not a new idea. Personally, I have used baseline information in teams I have worked in. In infrastructure, it's even more common. If you are using AWS or Azure, for example, they have in-built standards for monitoring certain things which you use.
 
@@ -146,8 +136,6 @@ This set of talks is based on a talk I've recently presented at a few of the NDC
 
 ## See the talk
 
----
-
 You can watch the talk relating to this particular series here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-3g4qjQ0Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -155,5 +143,5 @@ You can watch the talk relating to this particular series here:
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

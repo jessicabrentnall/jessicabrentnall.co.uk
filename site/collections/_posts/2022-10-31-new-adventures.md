@@ -53,8 +53,12 @@ If you aren't aware of the amazing events and work done by <a href="https://www.
 
 A lot is happening in my professional/tech life as you can see; but a lot is happening personally too. Some HUGE life events are happening in the next 12 months, all of which is going to keep me very busy. With that in mind, let's hope that this burst of energy lasts for some time because I'm going to need it!
 
+_Until next time._
+
+J.
+
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

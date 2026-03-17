@@ -265,10 +265,10 @@ This is not a fully comprehensive list of all that is involved in being a mainta
 
 _Stay Safe,_
 
-_Jess_
+J.
 
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

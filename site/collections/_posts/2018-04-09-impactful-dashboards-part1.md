@@ -4,7 +4,7 @@ title: Handy tips for Creating Dashboards
 description: "Part One of Creating & Maintaining Impactful Dashboards. What to consider when creating dashboards and what discussions to have about them."
 date: 2018-04-09
 image: "/images/posts/2018/04-09.jpg"
-tags: ["2018"]
+tags: ["2018", "observability"]
 ---
 
 ---
@@ -198,8 +198,11 @@ Treat it like Blind Date. If there is a tool that is answering all your question
 
 There is a _Part Two_ of this series currently in progress. In this post we have covered a lot about the creation of dashboards. The next post will explore maintenance of dashboards. How to tell if your dashboards might need a bit of a rework or refresh and how to approach those problems.
 
+_Until next time._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

@@ -4,7 +4,7 @@ title: "Error! Error!"
 description: "Getting your error levels right - An assessment of error levels and what they mean."
 date: 2017-03-11
 image: "/images/posts/2017/03-11.jpg"
-tags: ["2017"]
+tags: ["2017", "observability"]
 ---
 
 <br/>
@@ -25,8 +25,6 @@ This is an exploration of the different levels of error, what they mean and when
 act on it at any time, it's not getting logged.
 
 This article is based off what I have learnt and my experience using logs as a developer. I'm currently using these levels in C# using Serilog, so this is where they will probably most applicable but the concepts will be made as generic as possible.
-
-<br/>
 
 # Basic Error levels
 
@@ -81,11 +79,7 @@ The Trace or Verbose level of logging is often used for very detailed level logg
 
 Again, the Trace level is not a level of logging I personally have used much. I can definitely see how it could be useful if used with discipline.
 
-<br/>
-
 # In Conclusion.
-
----
 
 As mentioned throughout, how to use logging levels is not something that is completely concrete. In this article, I have explored my interpretation of what the levels mean and how to use them. This is from how I would use them in my job as a developer, but also from reading other peoples usage. Please send me any resources on the topic, or experiences that you have found useful.
 
@@ -98,5 +92,5 @@ As mentioned throughout, how to use logging levels is not something that is comp
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

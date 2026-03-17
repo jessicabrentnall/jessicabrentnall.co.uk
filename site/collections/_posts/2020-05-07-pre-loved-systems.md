@@ -66,10 +66,11 @@ Pre-loved systems are a great thing to work with. In a previous life a team inve
 
 Over time, if you build up and improve a pre-loved system, you can become invested in it yourself. It's easy to see and measure progress. Measure the decrease in issues, the speed to deploy and more.
 
-Love your legacy
+_Love your legacy._
 
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
 </div>

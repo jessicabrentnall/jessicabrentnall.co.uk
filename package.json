@@ -25,6 +25,7 @@
     "@bookshop/browser": "3.17.1",
     "@bookshop/jekyll-engine": "3.17.1",
     "@bookshop/live": "3.17.1",
+    "imagemin-cli": "^6.0.0",
     "npm-run-all": "^4.1.4"
   },
   "dependencies": {

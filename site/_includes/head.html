@@ -29,4 +29,16 @@
   <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
 
   <link rel="stylesheet" href="/assets/main.css">
+
+  <!-- Person Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ site.data.author.author_name }}",
+    "image": "{{ site.data.author.author_image | absolute_url }}",
+    "url": "{{ site.url }}",
+    "description": "{{ site.data.general_settings.description | strip_html | xml_escape }}"
+  }
+  </script>
 </head>

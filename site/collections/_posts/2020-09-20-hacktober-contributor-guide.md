@@ -229,5 +229,5 @@ _Edits made: 4th October 2020_
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

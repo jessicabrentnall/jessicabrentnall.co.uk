@@ -45,8 +45,9 @@ The final note is that I am sorry I will not be able to speak at your in-person 
 
 _Stay brilliant_
 
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

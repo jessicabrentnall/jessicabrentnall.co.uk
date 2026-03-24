@@ -4,7 +4,7 @@ title: Danger Signs of Dashboarding
 description: "Part Three of Creating & Maintaining Impactful Dashboards. Keeping dashboards useful."
 date: 2018-04-23
 image: "/images/posts/2018/04-23.jpg"
-tags: ["2018"]
+tags: ["2018", "observability"]
 ---
 
 ---
@@ -129,8 +129,11 @@ It is **REALLY** difficult to get to the stage where your dashboards are everyth
 
 The pay off is great though. To be able to see the effects of the work being done, the progress towards those business goals. To be able to spot where problems are and whether you can improve them. Do see the direct impact work is having. Monitoring in all its forms is powerful, when done well.
 
+_Enjoy._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

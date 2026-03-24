@@ -4,7 +4,7 @@ title: Metrics Baselines for Services
 description: "Part Two of A Practical Guide To Dashboarding. Standardised baselines for measuring Services behaviour and how they can be used."
 date: 2019-06-15
 image: "/images/posts/2019/06-15.jpg"
-tags: ["2019"]
+tags: ["2019", "observability"]
 ---
 
 ---
@@ -25,8 +25,6 @@ As mentioned in the <a href="{{site.baseurl}}/blog/practical-dashboards-part1" t
 In this post, we shall explore how this applies to metrics measuring the health of a service.
 
 ## U.S.E
-
----
 
 There is a pattern proposed by [Brendan Gregg](http://www.brendangregg.com/) called [U.S.E](http:/www.brendangregg.com/usemethod.html) used for _"analysing the performance of any system."_ This particular blog post had more of an "operational" focus. He refers often to "resource" which is referring to _"all physical server functional components (CPUs, disks, busses, ...)"_
 
@@ -116,8 +114,6 @@ In the case of errors showing detriment to business requirement, these should be
 
 ## Using these in combination
 
----
-
 Together, these metrics are incredibly powerful.
 
 _Examples:_
@@ -132,14 +128,18 @@ There are more combinations than those listed here, but over time you learn the 
 
 ## Caveat
 
----
-
 I've found these particular metrics very useful. Using them across teams as a general baseline makes it easier to move from one team to another and understand the state of their systems.
 
 If these metrics aren't already in place or if the information isn't available, it can take a lot of time and effort to put in place. Needless to say, I think measuring metrics on visual dashboards alongside other forms of monitoring (alerts, diagnostics etc.) is an effective way of knowing the state of your systems and driving down the time to detect and respond to problems in them.
 
 The introduction of working in this way without having the telemetry (measurements) in place is tricky in itself before taking into account the cultural change. For this to be effective you have to have the investment from your team, and preferably the company as a whole.
 
+_Hope this helps._
+
+J.
+
+---
+
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

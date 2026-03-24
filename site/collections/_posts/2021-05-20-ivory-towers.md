@@ -17,7 +17,7 @@ tags: ["2021"]
 
 <br/>
 
-There are a lot of resources, blog posts and research about the different forms of leadership and management. Moving into this kind of role I've been observing other people and what they do as well as introspecting as I try to grow and learn in a leadership position.
+There are a lot of resources, blog posts and research about the different forms of leadership and management. Moving into this kind of role I've been observing other people and what they do as well as introspection as I try to grow and learn in a leadership position.
 
 I take the view that my most effective role is as a servant leader. I want to help those in my teams grow and develop, and to do this I will give them the support, guidance and resources they need to be the best they can be in their roles. In order to do this I've needed to learn how to be an effective coach and how to delegate responsibly. The most self-organising the teams are, the better I've been doing my job. I work with incredibly bright people, and I truly get the most satisfaction out of seeing them succeed.
 
@@ -51,10 +51,12 @@ This is an opinion piece and I'm not saying by any means this is the only way to
 
 I'm still learning leadership. I'm hoping to do the best I can for those I work with, and anything I can do to help them develop and grow in their own roles is hugely rewarding.
 
-_Jess_
+_Keep sharing._
+
+J.
 
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/assets/img/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

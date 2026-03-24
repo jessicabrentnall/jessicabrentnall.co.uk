@@ -78,10 +78,11 @@ NDC lived up to all the hype. It's an amazing experience. It's not just about th
 
 Along with learning about some great technologies and re-igniting my passion or tech, it's also been a big confidence builder. There are people I can reach out to about a range of things, technical and personal. There's tonnes to learn and get excited about. Everybody is a n00b in some way and that is awesome. I have years to learn and get better as a developer.
 
-NDC is good for you. It's not great for your waistline.
+_NDC is good for you. It's not great for your waistline._
 
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

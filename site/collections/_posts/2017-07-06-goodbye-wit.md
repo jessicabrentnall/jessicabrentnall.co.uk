@@ -77,7 +77,9 @@ As for me, I'll still be about. I will be attending as many of the events as I c
 
 Overall, it's been a fun ride. I am grateful to you all and will be forever supporting WiT from the sidelines.
 
-Never forget to be excellent to each other, and party on.
+_Never forget to be excellent to each other, and party on._
+
+J.
 
 <div style="text-align:center; width:80%; margin-left: 10%;" markdown="1">
 <img src="{{site.baseurl}}/images/posts/2017/07-06/billandted.gif" alt="Tools">
@@ -86,5 +88,5 @@ Never forget to be excellent to each other, and party on.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

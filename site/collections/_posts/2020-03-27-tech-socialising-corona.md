@@ -131,8 +131,6 @@ There are a multitude of tech (and non-tech) podcasts that you can enjoy both in
 
 Let me know if you find any great podcasts!
 
----
-
 # When we are back out...
 
 All these events and activities will be available when we are back socialising in person again. The format and feel will be different, and there may be more remote options available.
@@ -140,8 +138,6 @@ All these events and activities will be available when we are back socialising i
 If you are local to Nottingham, use <a href="https://nottingham.digital/" rel="noreferrer" target="_blank">nottingham.digital</a> to find out about meetups in the area.
 
 In terms of what is different, there tends to be more available at the in person events - workshops, food, activities and more - but this does not take away from the quality of online events at all. They are just very different.
-
----
 
 # How to get involved
 
@@ -161,8 +157,6 @@ Now you know some of the ways in which you can get involved in the tech communit
 
 - #### Organise
   If you think there is something missing that people will benefit from, you can organise an event! There are a lot of resources out there and people willing to give you advice.
-
----
 
 # Why should you do any of this?
 
@@ -189,8 +183,11 @@ Hopefully I have now convinced you to keep taking part in your tech community fr
 
 Drop me a tweet, message or email with any events I've missed and might be interested in.
 
+_Keep well._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

@@ -9,7 +9,8 @@
     "start": "run-p bookshop-dev jekyll",
     "install-jekyll": "bundle install",
     "build-jekyll": "bundle exec jekyll build && node ./scripts/fix-tags.js",
-    "build": "npm run build-jekyll"
+    "minify-images": "imagemin site/images/**/*.{jpg,png} --out-dir=site/images --plugin=mozjpeg --plugin=pngquant",
+    "build": "npm run build-jekyll && npm run minify-images"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,9 @@
     "@bookshop/browser": "3.17.1",
     "@bookshop/jekyll-engine": "3.17.1",
     "@bookshop/live": "3.17.1",
+    "imagemin-cli": "^8.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^10.0.0",
     "npm-run-all": "^4.1.4"
   },
   "dependencies": {

@@ -4,7 +4,7 @@ title: Getting the most out of your dashboards
 description: "Part Two of Creating & Maintaining Impactful Dashboards. The lifetimes of different dashboards and metrics and how to manage them."
 date: 2018-04-22
 image: "/images/posts/2018/04-22.jpg"
-tags: ["2018"]
+tags: ["2018", "observability"]
 ---
 
 ---
@@ -97,8 +97,11 @@ Again these are just high level suggestions on ways to work and interact with yo
 
 The next section of this series will cover 'danger signs and don'ts' of dashboarding. How to tell when dashboards may need revisiting. Certain cultural concerns that may lead to poor dashboarding. Some types of metrics that, in my view, don't belong on a dashboard. Basically - a list of ways in which I have been, or have witnessed people being burned by dashboards and how to avoid them.
 
+_Use responsibily._
+
+J.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

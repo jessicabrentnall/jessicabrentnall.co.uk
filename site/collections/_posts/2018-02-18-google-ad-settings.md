@@ -53,7 +53,9 @@ There are many reasons why you might not want to see certain adverts. Here's a g
 
 #### And that's it
 
-Happy Googling.
+_Happy Googling_
+
+J.
 
 ### Here is the reference
 
@@ -62,5 +64,5 @@ Happy Googling.
 ---
 
 <div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/logo.png" alt="Logo">
+<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
 </div>

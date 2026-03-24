@@ -2,8 +2,8 @@
 layout: post
 title: Setting Up To Contract
 description: "The actions needed to be completed when getting ready to be a contractor."
-date: 2026-03-15
-image: "/images/posts/2026/03-18.jpg"
+date: 2026-03-24
+image: "/images/posts/2026/03-25.jpg"
 tags: ["2026", "work"]
 ---
 
@@ -61,18 +61,21 @@ The choice of where to set up the business bank account was guided by Gorilla as
 
 In terms of experience, the application form for setting up the business bank accountant was seamless. I've had a business bank account with another bank before (_I won't name and shame in this case_), and that was a chore to set up. The _other_ bank required in person meetings, and a lot of paper work. Applying for a business bank account with Mettle by Natwest was a simple form using their phone app. 
 
-It can take up to 10 days for an account to be set up so you'll want to do this in advance of any contract.
-
-### ✔ Find someone to review contracts
-
-It's recommended to have a lawyer (or solicitor) assess any contracts to ensure they are compliant with tax laws and helps demonstrate "reasonable care" to HMRC, minimizing risks of penalties
-
-<h3 style="color:red;">I'll update this post with details and how I found the company providing this service once it's done.</h3>
+It can take 10 - 20 days for an account to be set up so you'll want to do this in advance of any contract.
 
 ### ✔ Consider insurance
 
-<h3 style="color:red;">Update this once insurance sorted.</h3>
+There are a number of different options for insurance. I reached out to [Qdos](https://www.goqdos.com/) for a quote and they gave the options for two types of coverage:
 
+- **Professional Indemnity**: Covers you for the legal costs and compensation should your client allege negligence or error with your services, and take legal action to recover their losses.
+
+- **Public Liability**: Covers you for the defence costs and, if necessary, your legal liability to a third party where you have caused, or are alleged to have caused injury or property damage in the provision of your services.
+
+For my purposes I don't need public liability, but I have opted for professional indemnity.
+
+### ✔ Get contracts reviewed
+
+It's recommended to have a lawyer/solicitor assess any contracts to ensure they are compliant with tax laws and helps demonstrate "reasonable care" to HMRC, minimizing risks of penalties. Qdos, who I set up my insurance with also had a service for reviewing contracts against IR35 legislation. To keep things easy, I asked them to review my contract as part of the agreement with them.
 
 ## Now I'm Ready To Work.
 

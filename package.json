@@ -25,7 +25,7 @@
   "devDependencies": {
     "@bookshop/browser": "3.18.2",
     "@bookshop/jekyll-engine": "3.18.2",
-    "@bookshop/live": "3.17.1",
+    "@bookshop/live": "3.18.2",
     "imagemin-cli": "^8.0.0",
     "imagemin-mozjpeg": "^10.0.0",
     "imagemin-pngquant": "^10.0.0",

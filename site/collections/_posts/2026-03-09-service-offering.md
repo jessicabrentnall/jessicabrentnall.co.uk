@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Considering My Services
-description: "Considering what value can I provide to businesses to define my service offerings."
+description: "Deciding what I offer as a contractor: technical strategy to leadership coaching"
 date: 2026-03-09
 image: "/images/posts/2026/03-09.jpg"
 tags: ["2026", "work"]

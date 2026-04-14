@@ -32,7 +32,7 @@
     "npm-run-all": "^4.1.4"
   },
   "dependencies": {
-    "prettier": "^3.8.1"
+    "prettier": "^3.8.2"
   },
   "overrides": {
     "esbuild": "0.25.6"

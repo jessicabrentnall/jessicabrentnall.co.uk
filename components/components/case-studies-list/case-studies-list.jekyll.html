@@ -1,0 +1,10 @@
+{% if include.case-studies %}
+<div class="container animate">
+  <div class="row" data-pagebreak="6">
+    {% for post in site.case-studies %}
+      {% bookshop case-studies-card post=post %}
+    {% endfor %}
+  </div>
+</div>
+<br/>
+{% endif %}

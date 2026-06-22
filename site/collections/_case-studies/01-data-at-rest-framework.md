@@ -2,6 +2,7 @@
 layout: case-studies
 title: Governance & Data Compliance
 description: "Compliance as a Developer Experience for a Leading Commodities Trading Firm"
+date: 2026-03-15
 ---
 
 **Role:** Enterprise Solutions Architect

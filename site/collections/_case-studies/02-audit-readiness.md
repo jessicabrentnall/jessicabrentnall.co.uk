@@ -2,6 +2,7 @@
 layout: case-studies
 title: Enterprise Audit Readiness
 description: "Engineering Hygiene for Continuous Compliance"
+date: 2026-04-10
 ---
 
 **Role:** Head of Architecture

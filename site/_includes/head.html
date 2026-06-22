@@ -8,11 +8,13 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-  <!-- Logo for all pages; blog posts use their own image when set -->
+  <!-- Default share image; pages with their own image override it -->
   {% assign share_image = site.data.general_settings.social_media_share_image %}
-  {% if page.collection == 'posts' and page.image %}
+  {% if page.image %}
     {% assign share_image = page.image %}
   {% endif %}
+  {% assign share_image_width = site.data.general_settings.social_media_share_image_width | default: 1200 %}
+  {% assign share_image_height = site.data.general_settings.social_media_share_image_height | default: 627 %}
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
@@ -22,17 +24,26 @@
 
   <!-- Facebook OpenGraph -->
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
-  {% if page.collection == 'posts' %}
-  <meta property="og:type" content="article">
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="{{ site.data.author.author_profile }}">
+  <meta property="og:site_name" content="{{ site.data.general_settings.title }}">
   <meta name="author" content="{{ site.data.author.author_name }}">
+  <meta property="article:author" content="{{ site.data.author.author_profile }}">
+  {% if page.collection == 'posts' or page.collection == 'case-studies' or page.date %}
+  <meta property="og:type" content="article">
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="article:modified_time" content="{{ page.date | date_to_xmlschema }}">
+  {% endif %}
   {% else %}
   <meta property="og:type" content="website">
   {% endif %}
   <meta property="og:title" content="{% if page.url == "/" %}{{ site.data.general_settings.title }}{% else %}{{ page.title }} – {{ site.data.general_settings.title }}{% endif %}">
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.data.general_settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
   <meta property="og:image" content="{{ share_image | absolute_url }}">
+  {% unless page.image %}
+  <meta property="og:image:width" content="{{ share_image_width }}">
+  <meta property="og:image:height" content="{{ share_image_height }}">
+  {% endunless %}
+  <meta property="og:image:alt" content="{{ site.data.general_settings.title }}">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">

@@ -2,6 +2,7 @@
 layout: case-studies
 title: Technical Strategy & Roadmap
 description: "Aligning Architectural Strategy with Platform Scalability"
+date: 2026-05-20
 ---
 
 **Role:** Head of Architecture

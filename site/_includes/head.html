@@ -8,8 +8,11 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-  <!-- set a share image for any page, falling back to site default -->
-  {% assign share_image = page.image | default: site.data.general_settings.social_media_share_image %}
+  <!-- Logo for all pages; blog posts use their own image when set -->
+  {% assign share_image = site.data.general_settings.social_media_share_image %}
+  {% if page.collection == 'posts' and page.image %}
+    {% assign share_image = page.image %}
+  {% endif %}
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">

@@ -41,6 +41,9 @@ collections:
   services:
     output: true
     permalink: /services/:title/
+  case-studies:
+    output: true
+    permalink: /case-studies/:title/
 
 cloudcannon:
   collections:
@@ -55,12 +58,17 @@ cloudcannon:
       _icon: "build"
       _enabled_editors:
         - data
+    case-studies:
+      _icon: "build"
+      _enabled_editors:
+        - data
 
 _collection_groups:
   - heading: Content
     collections:
       - pages
       - testimonials
+      - case-studies
   - heading: Blogging
     collections:
       - posts
@@ -83,6 +91,10 @@ defaults:
       type: posts
     values:
       layout: post
+  - scope:
+      type: case-studies
+    values:
+      layout: case-studies
 
 # Tags
 tag_page_dir: tag

@@ -1,11 +1,18 @@
 ---
 layout: services
-title: Interim 'Head Of' Positions
+title: Interim CTO & Senior Leadership
 description: "Experienced interim leadership to maintain continuity and strategic direction."
 ---
 
 
-One of the services I offer is taking on Head of Architecture, Head of Platform, or Head of Engineering roles on an interim basis.
+I serve in Interim CTO and senior leadership capacities, guiding engineering, architecture, and platform organisations through complex technical challenges.
+
+I offer these services on an interim basis for roles such as:
+
+- **CTO & Interim Engineering Leadership.** Providing executive-level strategic direction.  
+- **Head of Architecture.** Overseeing enterprise-wide technical strategy and governance.  
+- **Head of Platform & Infrastructure.** Driving resilience and operational excellence.  
+- **Head of Engineering / Engineering Director.** Managing high-growth delivery teams and organisational topology.  
 
 These engagements provide organisations with experienced technical leadership for a defined period of time, ensuring continuity of leadership and strategic direction while the business navigates periods of transition.
 

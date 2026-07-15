@@ -2,8 +2,8 @@
 layout: post
 title: Designing By Default
 description: "Embed security, compliance, and performance into your architectural designs."
-date: 2026-07-16
-image: "/images/posts/2026/07-16.jpg"
+date: 2026-07-15
+image: "/images/posts/2026/07-15.jpg"
 tags: ["2026", "work"]
 ---
 

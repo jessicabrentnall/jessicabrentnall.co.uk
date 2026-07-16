@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Designing By Default
+title: Architecting The Defaults
 description: "Embed security, compliance, and performance into your architectural designs."
-date: 2026-07-15
-image: "/images/posts/2026/07-15.jpg"
+date: 2026-07-16
+image: "/images/posts/2026/07-16.jpg"
 tags: ["2026", "work"]
 ---
 
@@ -17,11 +17,15 @@ tags: ["2026", "work"]
 
 <br/>
 
-I have a lot of empathy for the cognitive load and breadth of knowledge expected of engineers today. When we sit down to solve a problem, we aren't just writing code. We are expected to ensure that solution is reliable, sustainable, and maintainable. We’re juggling testing practices, infrastructure trade-offs, cost optimisation, performance, user experience, and security... the list goes on.
+I have a lot of empathy for the cognitive load and breadth of knowledge expected of engineers today. When they sit down to solve a problem, they aren't just writing code. They are expected to ensure that solution is reliable, sustainable, and maintainable. They’re juggling testing practices, infrastructure trade-offs, cost optimisation, performance, user experience, and security... the list goes on.
 
-There is tooling to help, of course, and in larger organisations, you might have specialists to lean on. Some argue that AI is the answer to this cognitive load; while it is a fantastic productivity aid, I’d argue that if these foundational concerns aren't considered early, they only become exponentially harder to address the longer they are neglected.
+There is tooling to help, of course, and in larger organisations, you might have specialists to lean on. Some argue that AI is the answer to this cognitive load; while it is a fantastic productivity aid, I’d argue that if these foundational concerns aren't considered early, they only become exponentially harder to address the longer they are neglected. AI isn't the silver bullet some sell it to be.
 
-That is why I’m avoiding the buzzword-heavy _"Compliance-Driven Design"_ label for this post. In my experience, when we treat security, compliance, and infrastructure as separate, competing practices, it leads to overwhelming "task-list" fatigue. When every non-functional requirement feels like a chore, we tend to reach for quick-and-dirty fixes, or worse, de-prioritise these concerns entirely because the rework feels too daunting.
+When I was first putting my thoughts together for this post, I kept re-visiting the format of _"X-Driven Design"_ for the title. It's a pattern that is familiar to technical people, and we all understand the intention: whether it’s focusing on behaviour (BDD) or thinking about testing first (TDD). I align with many of these practices, but what I want to discuss is broader. The closest phrasing I could capture in that format was _"Requirement-Driven Design,"_ but that sounds incredibly obvious, feels very "waterfall," and doesn't capture the spirit of what I am proposing.
+
+In my experience, when we treat security, compliance, and infrastructure as separate, competing practices, it leads to overwhelming "task-list" fatigue. When every non-functional requirement feels like a chore, teams tend to reach for quick-and-dirty fixes. Or worse, they de-prioritise these concerns entirely because the rework feels too daunting.
+
+Often, the impact of ignoring these technical or legislative concerns isn’t clear and the path to implementing the right solution isn't obvious. It can come across as just another layer of "red tape", something the business knows they need to address, but doesn’t really care about. When business owners aren't invested, it’s hard for engineers to justify the effort; the work is perceived as neither valued nor valuable. It’s understandable that when a team is faced with many competing priorities, these are the ones that slip, or are done in a way that builds up significant technical and cognitive debt. The problem is that this creates risk; the impact can be devastating when a problem eventually occurs, and the build up leads to having to support poor-quality and fragile systems.
 
 How do you create high-quality software without overwhelming your engineers or stalling delivery? You stop treating compliance as an add-on. Instead, you embed these concerns into the design phase, establish repeatable patterns, and bake them into the definition of "done."
 
@@ -53,7 +57,7 @@ The goal is to move away from "checking boxes" toward _integrated, considered de
 
 Compliance, security, and critical business concerns, such as performance or cost-efficiency, shouldn't be treated as afterthoughts that surface at the end of a sprint. Instead, they should be foundational inputs into your initial design.
 
-When you are architecting a solution, your process should inherently account for these requirements. You shouldn't be asking if security or performance compliance is necessary; you should be asking, "How does this solution align with our data residency policy, our standard identity-access patterns, and our performance budgets?"
+When you are architecting a solution, your process should inherently account for these requirements. You shouldn't be asking if security or performance compliance is necessary; you should be asking, _"How does this solution align with our data residency policy, our standard identity-access patterns, and our performance budgets?"_
 
 By establishing an architectural reference of patterns and practices, you shift from treating every requirement as a unique, burdensome task to applying proven, reusable standards. You aren't asking an engineer to solve a complex regulatory, security, or performance problem from scratch; you’re asking them to adopt a standard that has already been verified to meet the company's needs.
 
@@ -83,7 +87,7 @@ Many teams struggle with fragmented knowledge and decision-making bottlenecks be
 
 ADRs serve as more than just documentation; they are the primary mechanism for:
 
-- **Removing Silos.** By sharing a proposed decision early, you invite input from specialists—security, compliance, or performance leads—before the code is even written. This ensures their requirements are addressed at the start, not as a gatekeeper at the end.
+- **Removing Silos.** By sharing a proposed decision early, you invite input from specialists: security, compliance, or performance leads, before the code is even written. This ensures their requirements are addressed at the start, not as a gatekeeper at the end.
 
 - **Avoiding Rework.** By recording the "why" behind a technical choice, you prevent future teams from repeating the same mistakes or questioning established standards, significantly reducing costly rework.
 
@@ -109,7 +113,7 @@ By shifting to an integrated design model, you move from a reactive, high-fricti
 
 If the philosophy sounds straightforward, the execution is where most teams hit the wall. Building a "Golden Path" isn't just about drafting documentation or choosing the right libraries; it is about navigating the human element. It involves untangling legacy requirements that no longer make sense, managing the cultural resistance to changing established ways of working, and bridging the often-wide gap between risk-averse stakeholders and delivery-focused engineers.
 
-I have spent my career helping organisations move away from reactive, audit-heavy cultures toward this model of embedded design. I’ve seen firsthand how projects that used to stall for weeks due to compliance sign-offs can pivot to a "design-by-default" flow. The result is a significant reduction in lead time and—more importantly—a system that is objectively more robust and maintainable.
+I have spent my career helping organisations move away from reactive, audit-heavy cultures toward this model of embedded design. I’ve seen firsthand how projects that used to stall for weeks due to compliance sign-offs can pivot to a "design-by-default" flow. The result is a significant reduction in lead time and, more importantly, a system that is objectively more robust and maintainable.
 
 ## Moving Forward
 

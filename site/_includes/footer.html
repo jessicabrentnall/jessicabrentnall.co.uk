@@ -1,10 +1,22 @@
 <!-- begin footer -->
 <footer class="footer">
   <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        {% bookshop_include social-link %}
+    <div class="footer__inner">
+      <div class="footer__company copyright">
+        <p>{{ site.data.footer.company_name }}</p>
+        <li>
+          Company number:
+          <a
+            href="https://find-and-update.company-information.service.gov.uk/company/{{ site.data.footer.company_number }}"
+            >{{ site.data.footer.company_number }}</a
+          >
+        </li>
+        <li>VAT Registration: <b>{{ site.data.footer.vat_registration }}</b></li>
+        <li>Email: <b>{{ site.data.footer.email }}</b></li>
+        {{ site.data.footer.copyright_text_html }}
+      </div>
 
+      <nav class="footer__nav" aria-label="Footer">
         <ul class="footer_nav list-reset">
           {% for item in site.data.footer.footer_menu__settings.menu__items %}
           <li class="footer_nav__item">
@@ -14,8 +26,10 @@
           </li>
           {% endfor %}
         </ul>
+      </nav>
 
-        <div class="copyright">{{ site.data.footer.copyright_text_html }}</div>
+      <div class="footer__social">
+        {% bookshop_include social-link %}
       </div>
     </div>
   </div>

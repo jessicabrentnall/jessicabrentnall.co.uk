@@ -25,6 +25,7 @@
 
             <ul class="nav__list list-reset">
               {% for item in site.data.navigation.menu__settings.menu__items %}
+              {% unless item.tags contains 'nav-exclude' %}
               {% if item.submenu %}
               <li class="nav__item dropdown">
                 <span class="nav__link dropdown-toggle"
@@ -50,7 +51,9 @@
                   >{{ item.title }}</a
                 >
               </li>
-              {% endif %} {% endfor %}
+              {% endif %}
+              {% endunless %}
+              {% endfor %}
             </ul>
           </div>
 

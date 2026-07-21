@@ -4,13 +4,15 @@ menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
-    - title: "About"
-      url: "/about/"
     - title: "Services"
       url: "/services/"
     - title: "Case Studies"
       url: "/case-studies/"
+    - title: "About"
+      url: "/about/"
     - title: "Blog"
       url: "/blog/"
-    - title: "Activity"
-      url: "/activity/"
+    - title: "Industry Engagement"
+      url: "/industry-engagement/"
+      tags:
+        - nav-exclude

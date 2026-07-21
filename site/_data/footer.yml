@@ -2,14 +2,14 @@ footer_menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
-    - title: "About"
-      url: "/about/"
     - title: "Services"
       url: "/services/"
+    - title: "Case Studies"
+      url: "/case-studies/"
+    - title: "About"
+      url: "/about/"
     - title: "Blog"
       url: "/blog/"
-    - title: "Activity"
-      url: "/activity/"
 
 company_name: "JBRENTNALL DIGITAL LIMITED"
 company_number: "17083521"

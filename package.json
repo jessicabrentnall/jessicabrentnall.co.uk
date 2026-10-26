@@ -27,7 +27,7 @@
     "@bookshop/jekyll-engine": "3.20.0",
     "@bookshop/live": "3.20.0",
     "imagemin-cli": "^6.0.0",
-    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
     "imagemin-pngquant": "^5.0.1",
     "npm-run-all": "^4.1.4"
   },

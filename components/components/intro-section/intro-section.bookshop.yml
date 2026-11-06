@@ -19,6 +19,7 @@ blueprint:
       image: ""
       image_alt: ""
       bio_html: ""
+      link_url: ""
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -26,15 +27,17 @@ preview:
   description_html: <p>JBrentnall Digital is a small consultancy working with teams on technical and cultural change.</p>
   people:
     - name: Jessica Brentnall
-      role: Director. Architecture & Engineering Leadership Consultant
+      role: Director
       image: /images/01.jpg
       image_alt: Jessica Brentnall
       bio_html: <p>Architecture and engineering leadership consultant.</p>
-    - name: Moreton Brentnall
-      role: Director. Security & Engineering Leadership Consultant
+      link_url: /about/jessica/
+    - name: Team member
+      role: Role
       image: /images/01.jpg
       image_alt: Team member
       bio_html: <p>Add a short profile here.</p>
+      link_url: /about/moreton/
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
@@ -46,3 +49,5 @@ _inputs:
     type: text
   bio_html:
     type: html
+  link_url:
+    type: url

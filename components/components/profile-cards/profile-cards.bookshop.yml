@@ -1,0 +1,46 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Profile Cards
+  description: Clickable people cards that link to individual about pages
+  icon: groups
+  tags:
+    - Content
+    - People
+    - Links
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  people:
+    - name: ""
+      role: ""
+      image: ""
+      image_alt: ""
+      description: ""
+      link_url: ""
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+  people:
+    - name: Jessica Brentnall
+      role: Architecture & Engineering Leadership Consultant
+      image: /images/jess.jpg
+      image_alt: Jessica Brentnall
+      description: Interim executive leadership and strategic advisory for architecture and engineering teams.
+      link_url: /about/jessica/
+    - name: Moreton Brentnall
+      role: Security & Engineering Leadership Consultant
+      image: /images/moreton.jpg
+      image_alt: Moreton Brentnall
+      description: Interim executive leadership and strategic advisory for security and engineering teams.
+      link_url: /about/moreton/
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  image:
+    type: image
+  image_alt:
+    type: text
+  link_url:
+    type: url

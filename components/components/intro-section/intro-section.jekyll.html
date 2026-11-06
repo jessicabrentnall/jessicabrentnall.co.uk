@@ -18,7 +18,12 @@
           <div class="row c-intro-section__people">
             {% for person in include.people %}
             <div class="c-intro-section__person col col-6 col-t-12">
-              <article class="c-intro-section__card">
+              <article class="c-intro-section__card{% if person.link_url and person.link_url != "" %} c-intro-section__card--link{% endif %}">
+                {% if person.link_url and person.link_url != "" %}
+                <a class="c-intro-section__stretched-link" href="{{ person.link_url | relative_url }}">
+                  <span class="screen-reader-text">Read more about {{ person.name }}</span>
+                </a>
+                {% endif %}
                 {% if person.image and person.image != "" %}
                 <div class="c-intro-section__photo">
                   <img loading="lazy" src="{{ person.image }}" alt="{{ person.image_alt }}">
@@ -33,6 +38,9 @@
                   {% endif %}
                   {% if person.bio_html and person.bio_html != "" %}
                   <div class="c-intro-section__bio">{{ person.bio_html }}</div>
+                  {% endif %}
+                  {% if person.link_url and person.link_url != "" %}
+                  <span class="c-intro-section__link">Read more <i class="ion ion-md-arrow-forward"></i></span>
                   {% endif %}
                 </div>
               </article>

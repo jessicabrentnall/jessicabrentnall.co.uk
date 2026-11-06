@@ -204,8 +204,18 @@
 		text-decoration: none;
 	}
 
-	.page__cta {
+	.page__cta,
+	.page__links {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		gap: 8px;
 		text-align: center;
+	}
+
+	.page__links {
+		margin: 8px 0 32px;
 	}
 }
 

@@ -1,0 +1,46 @@
+{% assign provider_names = "" %}
+{% for provider_key in page.providers %}
+  {% assign person = site.data.providers[provider_key] %}
+  {% if person %}
+    {% if forloop.first %}
+      {% assign provider_names = person.name %}
+    {% elsif forloop.last %}
+      {% assign provider_names = provider_names | append: " or " | append: person.name %}
+    {% else %}
+      {% assign provider_names = provider_names | append: ", " | append: person.name %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<section class="c-service-providers">
+  <h2 class="c-service-providers__title">Who provides this service</h2>
+  {% if page.providers.size == 1 %}
+  <p class="c-service-providers__intro">This service is provided by {{ provider_names }}.</p>
+  {% else %}
+  <p class="c-service-providers__intro">This service can be provided by {{ provider_names }}.</p>
+  {% endif %}
+
+  <div class="row c-service-providers__list">
+    {% for provider_key in page.providers %}
+      {% assign person = site.data.providers[provider_key] %}
+      {% if person %}
+      <div class="c-service-providers__item col {% if page.providers.size == 1 %}col-12{% else %}col-6 col-t-12{% endif %}">
+        <a class="c-service-providers__card" href="{{ person.url | relative_url }}">
+          {% if person.image %}
+          <div class="c-service-providers__photo">
+            <img loading="lazy" class="no-lightense" src="{{ person.image }}" alt="{{ person.name }}">
+          </div>
+          {% endif %}
+          <div class="c-service-providers__content">
+            <h3 class="c-service-providers__name">{{ person.name }}</h3>
+            {% if person.role %}
+            <p class="c-service-providers__role">{{ person.role }}</p>
+            {% endif %}
+            <span class="c-service-providers__link">Read more <i class="ion ion-md-arrow-forward"></i></span>
+          </div>
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

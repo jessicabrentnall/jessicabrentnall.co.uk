@@ -56,8 +56,8 @@
     font-weight: 600;
     line-height: 1;
     border-radius: 8px;
-    color: $white;
-    background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
+    color: $text-color;
+    background: $blue-gray;
   }
 
   &__tags-box {

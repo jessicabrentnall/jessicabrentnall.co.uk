@@ -4,7 +4,7 @@
     <div class="{{c}}__client-meta">
       {% if include.testimonial-item.image %}
         <div class="{{c}}__image-container">
-          <img class="{{c}}__client-avatar" src="{{ include.testimonial-item.image }}" alt="{{ include.testimonial-item.name }}">
+          <img class="{{c}}__client-avatar" src="{{ include.testimonial-item.image | relative_url }}" alt="{{ include.testimonial-item.name }}">
         </div>
       {% endif %}
       <div class="{{c}}__client-info">

@@ -22,7 +22,9 @@
         {% if include.show_testimonials %}
         <div class="testimonials__slider my-slider">
           {% for testimonial-item in site.testimonials %}
-            {% bookshop testimonial-card testimonial-item=testimonial-item %}
+            {% if include.person == nil or include.person == "" or testimonial-item.person == include.person %}
+              {% bookshop testimonial-card testimonial-item=testimonial-item %}
+            {% endif %}
           {% endfor %}
         </div>
         {% endif %}

@@ -7,69 +7,21 @@
   background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 
   .footer__inner {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
     align-items: center;
-    justify-content: space-between;
     gap: 24px;
   }
 
   .footer__company {
-    flex: 1;
     min-width: 0;
     text-align: left;
   }
 
   .footer__nav {
-    flex: 1;
     min-width: 0;
+    justify-self: center;
     text-align: center;
-  }
-
-  .footer__social {
-    flex: 1;
-    min-width: 0;
-    text-align: right;
-
-    .social {
-      margin-bottom: 0;
-
-      .social__list {
-        justify-content: flex-end;
-      }
-    }
-  }
-
-  .social {
-    .social__item {
-      margin: 0 2px;
-      font-size: 0;
-    }
-
-    .social__link {
-      display: inline-block;
-      width: 40px;
-      height: 40px;
-      line-height: 40px;
-      font-size: 16px;
-      border-radius: 50%;
-      color: $primary-color;
-      background: $white;
-      transition: all .25s;
-      will-change: transform;
-
-      &:hover {
-        transform: scale(0.9);
-        color: $primary-color;
-
-        &::after {
-          content: none;
-        }
-      }
-
-      &::after {
-        content: none;
-      }
-    }
   }
 
   .footer_nav {
@@ -97,21 +49,15 @@
 
   @media only screen and (max-width: $tablet) {
     .footer__inner {
-      flex-direction: column;
-      align-items: center;
+      grid-template-columns: 1fr;
+      justify-items: center;
       gap: 32px;
     }
 
     .footer__company,
-    .footer__nav,
-    .footer__social {
-      flex: none;
+    .footer__nav {
       width: 100%;
       text-align: center;
-    }
-
-    .footer__social .social .social__list {
-      justify-content: center;
     }
   }
 

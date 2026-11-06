@@ -40,6 +40,10 @@ layout: default
   <article class="post">
     <div class="post__content">{{ content }}</div>
 
+    {% if page.providers and page.providers.size > 0 %}
+      {% include service-providers.html %}
+    {% endif %}
+
     {% include share.html %}
   </article>
 </div>

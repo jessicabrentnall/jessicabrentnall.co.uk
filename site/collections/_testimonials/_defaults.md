@@ -1,5 +1,6 @@
 ---
 name:
+person:
 position:
 image:
 blurb:

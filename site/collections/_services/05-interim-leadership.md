@@ -2,6 +2,9 @@
 layout: services
 title: Interim CTO & Senior Leadership
 description: "Experienced interim leadership to maintain continuity and strategic direction."
+providers:
+  - Jessica
+  - Moreton
 ---
 
 

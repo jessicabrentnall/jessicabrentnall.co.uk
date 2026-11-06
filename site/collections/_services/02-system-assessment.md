@@ -2,6 +2,8 @@
 layout: services
 title: High Level Systems Assessment
 description: "Strategic assessment of systems/platforms to align with business goals."
+providers:
+  - Jessica
 ---
 
 As an architect and senior technology leader, I have extensive experience conducting high-level systems assessments. These engagements are often necessary to ensure the technical direction of a platform aligns with a company’s long-term business goals.

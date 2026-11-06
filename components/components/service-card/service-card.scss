@@ -14,6 +14,9 @@
   }
 
   &__inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
     border-radius: 16px;
     overflow: hidden;
     transform: translate(0);
@@ -21,6 +24,40 @@
     border: 1px solid rgba(17, 14, 56, 0.06);
     transition: box-shadow .2s, border-color .15s, transform .2s;
     padding: 22px;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  &__providers {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 16px;
+  }
+
+  &__providers-label {
+    margin: 0 8px 6px 0;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.4;
+    opacity: 0.7;
+  }
+
+  &__provider {
+    display: inline-block;
+    padding: 6px 10px;
+    margin: 0 6px 6px 0;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    border-radius: 8px;
+    color: $white;
+    background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
   }
 
   &__tags-box {

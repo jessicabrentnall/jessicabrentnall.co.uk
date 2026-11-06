@@ -12,6 +12,8 @@ blueprint:
     url: ""
     description: ""
     content: ""
+    providers:
+      - Jessica
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
@@ -20,5 +22,8 @@ preview:
     url: /
     description: Short description of the service
     content: Full description goes here
+    providers:
+      - Jessica
+      - Moreton
 
 _inputs: {}

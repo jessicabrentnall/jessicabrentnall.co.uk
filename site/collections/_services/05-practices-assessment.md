@@ -6,68 +6,62 @@ providers:
   - Jessica
 ---
 
-There are engineering processes and practices that help teams build and maintain reliable, high-quality systems. However, when introducing or evolving these practices, it is important that they support teams rather than create unnecessary overhead.
+Some engineering practices help teams build and run reliable systems. Others add process without making the work easier. The useful ones support people; they do not get in the way.
 
-Establishing or changing engineering culture takes time. However, there are targeted improvements that can be introduced relatively quickly to encourage better behaviours, reduce operational friction, and improve delivery outcomes.
+Changing engineering culture takes time. There are still targeted improvements that can land relatively quickly: better habits, less operational friction, and cleaner delivery.
 
 ## Example Areas of Review
 
-In my experience, certain areas consistently deliver rapid value to both engineering teams and the wider business when reviewed and improved.
+A few areas tend to pay off quickly for both engineering teams and the wider business.
 
 ### Incident Management Review
 
-This review examines the current approach to incident management and remediation, with the goal of identifying opportunities for improvement.
+This looks at how incidents are handled and remediated, and where that process could be stronger.
 
-Many engineering organisations develop strong reactive processes for responding to incidents as they occur. However, when incidents happen frequently, they can significantly disrupt teams and reduce the time available for planned delivery work.
+Many organisations get good at reacting when something breaks. When incidents are frequent, though, they eat the time that should go on planned work.
 
-I can help introduce practices that encourage teams to analyse incidents more effectively, prioritise preventative improvements, and reduce both incident frequency and remediation time. This increases overall engineering capacity and improves system reliability.
+The aim is to help teams analyse incidents properly, put preventative work first, and reduce both how often things break and how long they take to fix. That gives you capacity back, and a more reliable system.
 
 ### Observability Assessment
 
-Logging, alerting, and metrics are powerful tools when used effectively. They enable teams to detect issues early, diagnose problems quickly, understand system behaviour, and evaluate the impact of changes.
+Logging, alerting, and metrics are powerful when they are set up well. They help teams spot issues early, diagnose them, understand behaviour, and see the effect of a change.
 
-However, poorly configured observability can generate large amounts of noise and make it difficult for teams to identify meaningful signals.
+Poorly tuned observability does the opposite: a lot of noise, and not much signal.
 
-I can review the current observability approach and recommend improvements that enhance system visibility while reducing unnecessary alerting and operational overhead.
+The review looks at the current approach and recommends changes that improve visibility without drowning teams in alerts.
 
 ### Introducing Architectural Reviews
 
-Architectural Decision Records (ADRs) can help teams document and communicate significant technical decisions in a consistent way. When used well, they improve alignment between teams and provide useful context for future engineering work.
+Architectural Decision Records (ADRs) give teams a consistent way to write down significant technical decisions. Used well, they keep people aligned and leave useful context for whoever comes next.
 
-Architectural reviews based on ADRs can also provide appropriate oversight from disciplines such as security, infrastructure, DevOps, and compliance where required.
+Reviews based on ADRs can also bring in the right oversight from security, infrastructure, DevOps, or compliance when it is needed.
 
-I can support teams by introducing ADR templates, defining lightweight review processes, and helping engineers develop the skills required to evaluate architectural decisions effectively.
+This work usually means introducing templates, a lightweight review process, and helping engineers get comfortable evaluating architectural decisions.
 
 ### Additional Areas
 
-I can also provide advice and guidance in other areas including:
+Advice is also available on:
 
 - Pull request and code review practices
-- Engineering tooling assessments
-- CI/CD and delivery pipeline practices
-- Development workflow improvements
+- Engineering tooling
+- CI/CD and delivery pipelines
+- Development workflow
 
 ## Engagement Format
 
-Before starting an engagement, an initial discussion is required to understand the organisation’s goals and challenges.
+Work starts with a conversation about what you are trying to improve.
 
-During this conversation I will typically ask about:
+That typically covers:
 
-- The key engineering or operational challenges the business is facing
+- The main engineering or operational challenges
 - The number of systems or services involved
-- The teams responsible for supporting them
-- The outcomes the organisation would like to achieve
+- The teams that support them
+- The outcomes you want from the engagement
 
-Based on this information, I will propose a tailored engagement structure and indicative timeframes. All engagements are designed to address the specific needs of the organisation.
+From there, we propose a structure and an indicative timeframe, fitted to what you actually need.
 
 ## Rates
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements.
 
 Day rates and commercial arrangements can be discussed following the initial scoping conversation.
-
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>

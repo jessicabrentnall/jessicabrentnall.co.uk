@@ -7,76 +7,66 @@ providers:
   - Moreton
 ---
 
-I have extensive experience coaching engineers and architects to help them reach their full potential as technical leaders. This experience comes both from my time as an engineering manager and through independent mentoring outside of formal roles.
+Leadership coaching is for engineers and architects who want to grow into, or get more effective in, technical leadership. Sessions are useful at many stages of a career, from people early in their path through to lead engineers and architects already operating at a senior level.
 
-I have worked with individuals at many different stages of their careers, from engineers early in their professional journey through to lead engineers and architects operating at senior levels.
-
-The goal of these sessions is to help technical professionals develop the skills, mindset, and confidence required to operate effectively in leadership roles.
+The aim is practical: skills, judgement, and confidence that hold up in the role, not generic leadership theory.
 
 ## Areas of Coaching
 
-Coaching sessions are tailored to the individual, but common areas of focus include:
+Sessions are tailored to the person. Common areas of focus include:
 
 ### Leading a Specific Project
 
-Supporting engineers or architects who are responsible for leading a significant technical initiative.
+Support for engineers or architects who are leading a significant technical initiative.
 
-This may include guidance on:
-- Planning and roadmap development.
-- Stakeholder engagement and communication.
-- Working effectively across multiple teams.
-- Building trust and gaining organisational buy-in.
+That may include:
+- Planning and roadmap development
+- Stakeholder engagement and communication
+- Working across multiple teams
+- Building trust and getting organisational buy-in
 
-Through regular sessions, I help individuals navigate the challenges of leading complex projects and identify the most effective ways to move initiatives forward.
+Regular sessions are a place to work through the real problems of a live project, and to decide how to move it forward.
 
 ### Strategic Systems Thinking
 
-Helping individuals develop the ability to think about systems and platforms at a strategic level.
+Help developing the habit of looking at systems and platforms at a strategic level.
 
-This includes techniques for:
-- Identifying strategic technical work.
-- Framing proposals for architectural change.
-- Aligning technical improvements with business goals.
-- Contributing effectively to company roadmaps
+That includes:
+- Spotting strategic technical work
+- Framing proposals for architectural change
+- Lining technical improvements up with business goals
+- Contributing usefully to company roadmaps
 
 ### Career Growth and Development Planning
 
-During the initial sessions we will work together to understand the individual’s strengths, areas for development, and long-term career aspirations.
+Early sessions are used to understand strengths, gaps, and longer-term aims.
 
-From this, we will create a structured development plan focused on strengthening key skills and building the experience needed to reach their desired career trajectory.
+From that, you get a development plan focused on the skills and experience needed for the next step, rather than a generic competency list.
 
 ### Managing a Technical Team
 
-For individuals who are responsible for managing engineering teams, coaching can focus on developing leadership and management capabilities.
+For people who manage engineering teams, coaching can focus on the craft of leading others.
 
 Topics may include:
-- Structuring and prioritising work within a team.
-- Developing and mentoring team members.
-- Building balanced teams with complementary skill sets.
-- Managing and supporting high-performing engineers.
+- Structuring and prioritising work
+- Developing and mentoring people
+- Building balanced teams
+- Supporting high-performing engineers
 
 ## Engagement Format
 
-Coaching sessions take place on a regular cadence, agreed at the start of the engagement. Typically this will be a one-hour session every two weeks, or a one-hour session once per month.
+Sessions run on a regular cadence, agreed at the start. Typically that is an hour every two weeks, or an hour once a month.
 
-During the first session we will explore:
-- The individual’s experience and current role.
-- The areas where they are seeking coaching.
-- Any specific projects or challenges they are currently facing.
-- Their longer-term career goals.
+The first session usually covers:
+- Experience and current role
+- Where coaching would help
+- Live projects or challenges
+- Longer-term career goals
 
-This allows us to define a structure and focus for future sessions.
-
-The coaching approach is fully tailored to the individual, ensuring that sessions remain relevant to their needs and professional development.
+That sets the focus for the sessions that follow. The approach stays tailored, so the work remains relevant.
 
 ## Rates
 
-Coaching sessions are charged at half a day’s rate per session. This reflects not only the session itself, but also the preparation and follow-up work required to ensure each session delivers meaningful value.
+Coaching sessions are charged at half a day’s rate per session. That covers the session itself, plus the preparation and follow-up needed for it to be useful.
 
-In most cases, coaching engagements are sponsored by the individual’s employer as part of their professional development, although other arrangements can be discussed if required.
-
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+In most cases the individual’s employer sponsors the engagement as professional development. Other arrangements can be discussed if needed.

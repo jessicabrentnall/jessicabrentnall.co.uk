@@ -7,56 +7,50 @@ providers:
   - Moreton
 ---
 
+Interim CTO and senior leadership cover is for organisations going through complex technical or organisational change. That includes engineering, architecture, platform, and security leadership, for a defined period of time.
 
-I serve in Interim CTO and senior leadership capacities, guiding engineering, architecture, and platform organisations through complex technical challenges.
+Typical roles include:
 
-I offer these services on an interim basis for roles such as:
+- **CTO & Interim Engineering Leadership.** Executive-level strategic direction.
+- **CISO / Head of Security.** Senior security leadership and a clear view of technical and organisational risk.
+- **Head of Architecture.** Enterprise-wide technical strategy and governance.
+- **Head of Platform & Infrastructure.** Resilience and operational excellence.
+- **Head of Engineering / Engineering Director.** High-growth delivery teams and organisational topology.
 
-- **CTO & Interim Engineering Leadership.** Providing executive-level strategic direction.  
-- **Head of Architecture.** Overseeing enterprise-wide technical strategy and governance.  
-- **Head of Platform & Infrastructure.** Driving resilience and operational excellence.  
-- **Head of Engineering / Engineering Director.** Managing high-growth delivery teams and organisational topology.  
-
-These engagements provide organisations with experienced technical leadership for a defined period of time, ensuring continuity of leadership and strategic direction while the business navigates periods of transition.
+The aim is continuity: experienced technical leadership while you navigate a transition, without rushing a permanent hire or leaving a team without direction.
 
 ## When an Interim Leader May Be Needed
 
-There are several scenarios where bringing in an interim senior technical leader can be beneficial.
+There are several scenarios where bringing in an interim senior leader is the better option than leaving a technical leadership role uncovered.
 
 ### Cover During Leave
 
-A senior leader may require time away from the business due to parental leave, illness, or a sabbatical. During this period, I can step into the role to maintain continuity of leadership, ensuring teams remain aligned and strategic initiatives continue to progress.
+A senior leader may need time away from the business for parental leave, illness, or a sabbatical. Interim cover keeps leadership in place so teams stay aligned and strategic work continues.
 
 ### Cover While Hiring a Permanent Leader
 
-Recruiting into senior technical leadership positions can take time, and organisations often want to avoid rushing such an important hire. An interim leader can provide stability during the recruitment process, ensuring the organisation continues to move forward until a permanent appointment is made.
+Recruiting into senior technical leadership takes time, and it is rarely worth rushing. An interim leader can hold the role during recruitment so the organisation keeps moving until a permanent appointment is made.
 
 ### Supporting the Transition of an Internal Promotion
 
-In some cases, organisations wish to promote an internal candidate into a leadership role but recognise that the individual may benefit from additional experience or a phased transition.
+Sometimes you want to promote from inside, but the person would benefit from more experience or a phased handover.
 
-In these situations, I can temporarily cover aspects of the role while mentoring the internal candidate and supporting a structured transition into full leadership responsibility.
+In those cases, interim cover can take parts of the role while mentoring the internal candidate and supporting a structured move into full responsibility.
 
 ## Engagement Format
 
-The exact format of the engagement will depend on the organisation’s context and leadership needs.
+The shape of the work depends on your context and what the role actually needs.
 
-An initial discussion will allow us to:
+An initial conversation is used to:
 - Clarify the scope of responsibilities
 - Understand the organisational structure and current challenges
 - Define expectations for the interim leadership role
-- Determine whether I am the right fit for the organisation
+- Confirm whether this is the right fit, and who is best placed for the brief
 
-Following this discussion, we can agree on an engagement structure that provides the leadership support required while ensuring a smooth transition back to a permanent role holder.
+From there, we agree an engagement structure that gives you the cover you need, and a clean path back to a permanent role holder.
 
 ## Rates
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements.
 
 Day rates and commercial arrangements can be discussed following the initial scoping conversation.
-
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>

@@ -4,7 +4,6 @@ title: Leadership Coaching
 description: "Coaching technical leaders to grow influence, lead teams, and deliver strategic impact."
 providers:
   - Jessica
-  - Moreton
 ---
 
 Leadership coaching is for engineers and architects who want to grow into, or get more effective in, technical leadership. Sessions are useful at many stages of a career, from people early in their path through to lead engineers and architects already operating at a senior level.

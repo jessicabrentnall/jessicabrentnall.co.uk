@@ -4,6 +4,7 @@ title: Engineering Topology Assessment
 description: "Optimising team structure and interactions to accelerate delivery and clarify ownership."
 providers:
   - Jessica
+  - Moreton
 ---
 
 How engineering teams are structured has a real effect on how well software gets delivered. On a small system with a handful of engineers, that is easy to miss. As systems grow, team design starts to matter a great deal.

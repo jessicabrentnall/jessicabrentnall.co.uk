@@ -12,6 +12,7 @@ spec:
 blueprint:
   image: ""
   image_alt: ""
+  image_position: ""
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

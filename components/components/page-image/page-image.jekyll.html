@@ -2,7 +2,7 @@
 <div class="container">
   <div class="row">
     <div class="col col-12">
-      <div class="{{c}} animate">
+      <div class="{{c}} animate{% if include.image_position and include.image_position != '' %} {{c}}--{{ include.image_position }}{% endif %}">
         <img loading="lazy" src="{{ include.image }}" alt="{{ include.image_alt }}">
       </div>
     </div>

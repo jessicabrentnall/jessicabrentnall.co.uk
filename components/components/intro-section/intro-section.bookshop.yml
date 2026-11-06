@@ -1,0 +1,48 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Intro
+  description: Intro text with two side-by-side people profiles
+  icon: groups
+  tags:
+    - Content
+    - People
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: ""
+  description_html: ""
+  people:
+    - name: ""
+      role: ""
+      image: ""
+      image_alt: ""
+      bio_html: ""
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+  title: The team
+  description_html: <p>JBrentnall Digital is a small consultancy working with teams on technical and cultural change.</p>
+  people:
+    - name: Jessica Brentnall
+      role: Director. Architecture & Engineering Leadership Consultant
+      image: /images/01.jpg
+      image_alt: Jessica Brentnall
+      bio_html: <p>Architecture and engineering leadership consultant.</p>
+    - name: Moreton Brentnall
+      role: Director. Security & Engineering Leadership Consultant
+      image: /images/01.jpg
+      image_alt: Team member
+      bio_html: <p>Add a short profile here.</p>
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  description_html:
+    type: html
+  image:
+    type: image
+  image_alt:
+    type: text
+  bio_html:
+    type: html

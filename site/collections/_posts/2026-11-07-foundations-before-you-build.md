@@ -2,7 +2,7 @@
 layout: post
 title: Foundations Before You Build
 description: "Earn trust, make the risk visible, and leave a baseline the team can carry."
-date: 2026-11-05
+date: 2026-11-07
 image: "/images/posts/2026/11-07.jpg"
 tags: ["2026", "leadership", "work"]
 ---
@@ -17,7 +17,7 @@ tags: ["2026", "leadership", "work"]
 
 <br/>
 
-Stepping into an organisation as a technical leader is a particular kind of moment, whether you are there on a short contract, as an interim, or in a new permanent role. The timeline changes. The challenges do not, not really. You still join a train that is already moving. You still do not get to watch from a distance, or spend weeks on strategy decks that never quite leave the slide. The work still has to happen. The people doing it still have to trust you.
+Stepping into an organisation as a technical leader is a particular kind of moment, whether you are there on a short contract, as an interim, or in a new permanent role. The timeline changes, but the challenges do not, not really. You still join a train that is already moving. You still do not get to watch from a distance, or spend weeks on strategy decks that never quite leave the slide. The work still has to happen. The people doing it still have to trust you.
 
 I have a lot of empathy for that moment, on both sides. Engineers have usually been carrying the weight for a long time: fragile systems, unspoken rules, and the quiet pressure of keeping delivery going. Leadership is usually under a different pressure: ship, grow, and prove that the next thing on the roadmap is profitable. A leader who arrives with a pre-written answer, and no interest in how the team got here, will not be heard. And they shouldn’t be.
 
@@ -43,7 +43,7 @@ Focusing on friction, rather than theory, does two things at once. You get a cle
 
 ## When the Risk Doesn’t Feel Real Yet
 
-There is a pattern I have seen more than once in growing companies that *should* be working in a highly regulated way, but have never really felt the cost of missing that expectation. They may still be small enough that the FCA, or whichever body sits over them, has not paid them much attention. No penalty has arrived. No audit has really bitten. From the inside, the risk does not feel real. That is not a moral failing. It is what happens when the incentives have always rewarded shipping, and the industry has not yet made the alternative expensive.
+There is a pattern I have seen more than once in growing companies that *should* be working in a highly regulated way, but have never really felt the cost of missing that expectation. They may still be small enough that the FCA, or whichever body sits over them, has not paid them much attention. No penalty has arrived. No audit has really hurt them. From the inside, the risk does not feel real. That is not a moral failing. It is what happens when the incentives have always rewarded shipping, and the industry has not yet made the alternative expensive.
 
 When that is the case, regulation is easy to treat as tomorrow’s problem. What the business wants, understandably, is quick-and-dirty delivery. Feature work is visible. Maturity work is not. If you have never been punished for skipping the unglamorous parts, asking a team to slow down and bring the basics up to a safe standard feels like process for its own sake. It can come across as just another layer of "red tape": something people know they are supposed to care about, but don’t, because nothing bad has happened yet.
 

@@ -1,56 +1,55 @@
 ---
 layout: services
-title: Interim CTO & Senior Leadership
+title: Interim C-Suite / Senior Leadership
 description: "Experienced interim leadership to maintain continuity and strategic direction."
 providers:
   - Jessica
   - Moreton
 ---
 
-Interim CTO and senior leadership cover is for organisations going through complex technical or organisational change. That includes engineering, architecture, platform, and security leadership, for a defined period of time.
+Fractional and interim senior leadership is for businesses going through complex technical or organisational change. We step into engineering, architecture, platform, and security leadership roles on either a full-time interim basis or a fractional (part-time) arrangement, keeping momentum high and strategy clear without the commitment of an immediate permanent executive hire.
 
-Typical roles include:
+## Leadership Roles We Cover
 
-- **CTO & Interim Engineering Leadership.** Executive-level strategic direction.
-- **CISO / Head of Security.** Senior security leadership and a clear view of technical and organisational risk.
-- **Head of Architecture.** Enterprise-wide technical strategy and governance.
-- **Head of Platform & Infrastructure.** Resilience and operational excellence.
-- **Head of Engineering / Engineering Director.** High-growth delivery teams and organisational topology.
+- **CTO / Executive Engineering Leadership.** Executive-level direction, strategic clarity, and technical oversight.
+- **CISO / Head of Security.** Senior security leadership, pragmatically balancing governance with operational risk.
+- **Head of Architecture.** Joining up enterprise technical strategy with real-world delivery across existing and evolving estates.
+- **Head of Engineering / Engineering Director.** Supporting high-growth delivery teams, refining team structures, and establishing effective ways of working.
+- **Head of Platform & Infrastructure.** Building resilience, reducing technical debt, and driving operational stability.
 
-The aim is continuity: experienced technical leadership while you navigate a transition, without rushing a permanent hire or leaving a team without direction.
+Our approach is all about continuity and partnership: low-ego, client-first leadership designed to leave your teams stronger, happier, and clear on direction long after the engagement finishes.
 
 ## When an Interim Leader May Be Needed
 
-There are several scenarios where bringing in an interim senior leader is the better option than leaving a technical leadership role uncovered.
+Leaving a senior technical role vacant creates friction, but rushing an executive hire creates long-term debt. Bringing in interim leadership bridges that gap effectively across several common scenarios:
 
-### Cover During Leave
+### Cover During Planned or Unplanned Leave
 
-A senior leader may need time away from the business for parental leave, illness, or a sabbatical. Interim cover keeps leadership in place so teams stay aligned and strategic work continues.
+When a senior leader needs time away, whether for parental leave, illness, or a sabbatical, interim cover keeps strategic work moving and ensures teams retain clear context and mentorship.
 
-### Cover While Hiring a Permanent Leader
+### Continuity While Hiring a Permanent Leader
 
-Recruiting into senior technical leadership takes time, and it is rarely worth rushing. An interim leader can hold the role during recruitment so the organisation keeps moving until a permanent appointment is made.
+Finding the right permanent senior leader takes time. An interim leader holds the space, maintains alignment, and keeps delivery on track so you can recruit deliberately rather than urgently.
 
-### Supporting the Transition of an Internal Promotion
+### Supporting Internal Promotions
 
-Sometimes you want to promote from inside, but the person would benefit from more experience or a phased handover.
-
-In those cases, interim cover can take parts of the role while mentoring the internal candidate and supporting a structured move into full responsibility.
+Promoting from within is often the best long-term decision, but stepping into senior executive responsibility can be a huge leap. We provide fractional or phased interim cover to anchor the function, mentor the candidate, and ensure a structured, supported transition into full ownership.
 
 ## Engagement Format
 
-The shape of the work depends on your context and what the role actually needs.
+Every organisation’s context is different. We tailor working patterns to what the brief actually requires—whether that is dedicated interim cover (_typically 4 days per week_) or a fractional arrangement (_1–2 days per week_).
 
-An initial conversation is used to:
-- Clarify the scope of responsibilities
-- Understand the organisational structure and current challenges
-- Define expectations for the interim leadership role
-- Confirm whether this is the right fit, and who is best placed for the brief
+We start with a straightforward scoping conversation to:
 
-From there, we agree an engagement structure that gives you the cover you need, and a clean path back to a permanent role holder.
+- Define the immediate goals and core responsibilities of the role.
+- Map out the team structure, current technical debt, and key organisational challenges.
+- Agree on what success looks like, including a clear plan for handover.
+- Confirm whether this is the right fit, and who is best placed for the brief.
 
-## Rates
+From there, we set a clean engagement structure that provides immediate stability and builds a seamless path forwards.
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements.
+## Commercials & IR35
 
-Day rates and commercial arrangements can be discussed following the initial scoping conversation.
+Engagements are structured on either an inside or outside IR35 basis depending on the brief, scope of work, and operational context.
+
+Day rates and commercial terms are tailored to the role requirements and agreed transparently following our initial scoping conversation.

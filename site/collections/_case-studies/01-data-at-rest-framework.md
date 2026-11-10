@@ -5,8 +5,6 @@ description: "Compliance as a Developer Experience for a Leading Commodities Tra
 date: 2026-03-15
 ---
 
-**Role:** Enterprise Solutions Architect
-
 **Focus:** Data Security, Compliance, and Architectural Strategy
 
 ## Executive Summary

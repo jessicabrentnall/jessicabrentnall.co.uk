@@ -1,0 +1,29 @@
+{% if include.people and include.people.size > 0 %}
+<div class="container animate">
+  <div class="row c-profile-cards">
+    {% for person in include.people %}
+    <div class="c-profile-cards__item col col-6 col-t-12">
+      <a class="c-profile-cards__card" href="{{ person.link_url | relative_url }}">
+        {% if person.image and person.image != "" %}
+        <div class="c-profile-cards__photo">
+          <img loading="lazy" src="{{ person.image }}" alt="{{ person.image_alt }}">
+        </div>
+        {% endif %}
+        <div class="c-profile-cards__content">
+          {% if person.name %}
+          <h2 class="c-profile-cards__name">{{ person.name }}</h2>
+          {% endif %}
+          {% if person.role %}
+          <p class="c-profile-cards__role">{{ person.role }}</p>
+          {% endif %}
+          {% if person.description %}
+          <p class="c-profile-cards__description">{{ person.description }}</p>
+          {% endif %}
+          <span class="c-profile-cards__link">Read more <i class="ion ion-md-arrow-forward"></i></span>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

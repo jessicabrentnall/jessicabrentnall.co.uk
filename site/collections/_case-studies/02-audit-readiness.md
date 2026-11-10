@@ -5,8 +5,6 @@ description: "Engineering Hygiene for Continuous Compliance"
 date: 2026-04-10
 ---
 
-**Role:** Head of Architecture
-
 **Focus:** Technical Leadership, Enterprise Governance, and Regulatory Compliance Strategy.
 
 ## Executive Summary

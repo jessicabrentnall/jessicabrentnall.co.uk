@@ -2,79 +2,68 @@
 layout: services
 title: Architectural Project Support
 description: "Targeted architectural guidance for specific projects/products."
+providers:
+  - Jessica
 ---
 
-This is the most familiar form of engagement for organisations that have previously worked with technical architects. For a specific problem or initiative, I conduct analysis and provide clear architectural recommendations, solutions, and implementation guidance.
+Architectural Project Support provides deep, hands-on technical architecture for a specific initiative, platform challenge, or migration.
 
-This model works best when the business has a well-defined problem or scoped initiative that requires architectural input.
+Led by Jessica Brentnall, this service is designed for organisations that already have a defined problem or scoped piece of work and need focused architectural expertise to design the solution and guide implementation, without committing to a broad platform overhaul.
 
-It can also be a good option for organisations that want to trial my consultancy services before committing to a broader strategic engagement.
+## When Project Support Makes Sense
+This engagement works best when your team knows what needs to be achieved, but needs senior architectural direction to figure out how to build it reliably. It is also an ideal, low-risk way to try working with JBrentnall Digital on a discrete piece of work before exploring broader strategic advisory.
 
-## Types of Projects
+### Targeted Project Architecture
+Designing or improving specific components within your technical estate, focusing on performance, cost efficiency, resilience, or scalability for a defined product area or service.
 
-I can support a wide range of architectural initiatives. My experience spans full-stack technical architecture, from product and platform design down to infrastructure (AWS, Azure, and on-premise environments).
+### Technical & Platform Migrations
+Architectural guidance for moving applications, infrastructure, or data to new platforms, cloud environments (AWS, Azure), or modern tooling, ensuring the transition happens safely without disrupting ongoing delivery.
 
-Examples of projects where I can provide architectural support include:
-
-### Project Architecture Engagements
-Improving performance, cost efficiency, resilience, scalability, or security for a specific product or area of a system.
-
-### Migration Projects
-Supporting migrations to new technologies, platforms, or tooling. This may include application migrations, infrastructure changes, or data migrations. The scale of the migration will determine whether a short-term engagement is appropriate or if a longer strategic engagement is required.
-
-### Compliance Architecture (PCI, GDPR, etc.)
-Designing or reviewing systems to ensure they meet regulatory and contractual compliance requirements.
+### Compliance by Design (PCI, GDPR, & Security)
+Designing or reviewing system architectures specifically to satisfy regulatory, security, or contractual requirements using patterns that engineering teams can actually maintain.
 
 ### Data Architecture & Design
-Designing data systems that support regulatory compliance, contractual obligations, and long-term data governance through robust architectural patterns.
+Designing data systems that support compliance, contractual obligations, and longer-term governance, using patterns the organisation can actually operate.
 
 ### API and Event Architecture
-Defining clear service contracts and architectural patterns for APIs and event-driven systems to ensure scalability, maintainability, and reliability of data in transit.
+Clear service contracts and patterns for APIs and event-driven systems, so data in transit stays scalable, maintainable, and reliable.
 
 ## Engagement Format
 
-Before starting any engagement, we will hold an initial scoping conversation to understand the problem space and define the most appropriate engagement structure.
+Work begins with a straightforward scoping conversation focused strictly on the specific problem or initiative at hand.
 
-During this discussion I will typically ask about:
-- The specific problem or challenge the business wants advice on
-- The number of deployed services or systems involved
+That discussion typically covers:
+- The exact challenge, migration, or feature set requiring architectural input.
+- The systems, databases, or third-party services involved.
 - The approximate size and structure of the teams supporting the platform
-- The outcomes the business hopes to achieve (e.g., cost reduction, migration plan, improved system resilience)
+- The desired commercial or technical outcome (e.g., lower cloud expenditure, PCI compliance, seamless migration).
 
-Based on this information, I will propose an engagement structure along with estimated timelines.
+While every project is sized to your timeline and scope, engagements are typically structured around four practical stages:
 
-Each engagement is tailored to the organisation and problem, but a typical delivery structure may include:
+#### Phase 1: Scoping & Problem Framing
+Clarifying requirements, technical constraints, and current-state architecture for the target system.
 
-#### Phase 1: Discovery & Assessment
-A focused discovery phase to establish a deep understanding of the business context, current architecture, and organisational design.
-#### Phase 2: Strategy & Target Architecture
-Synthesis of discovery findings into a coherent technical strategy and target-state architecture.
+#### Phase 2: Solution Design & Trade-off Analysis
+Developing target-state architecture options, comparing cost/value trade-offs, and agreeing on the technical direction.
+
 #### Phase 3: Roadmap & Proposal
-Translation of the agreed strategy into a pragmatic, prioritised roadmap.
-#### Phase 4: Handover
-A structured handover at the conclusion of the engagement to ensure stakeholders and delivery teams can confidently execute the recommended changes.
+Creating clear, actionable technical specifications, API contracts, or migration plans for internal engineering teams.
+
+#### Phase 4: Implementation Guidance & Handover
+A structured handover so stakeholders and delivery teams can execute the recommended changes with confidence.
 
 ## Example Expected Outcomes
 
-At the start of the engagement we will agree on specific deliverables and outcomes for each phase.
+Specific deliverables are tailored to the project brief, but typical outputs include:
 
-Examples of deliverables may include:
+- Current-state and target-state architectural documentation.
+- Solution options analysis with explicit cost, risk, and effort trade-offs.
+- API specifications, service contract designs, or data architecture blueprints.
+- Practical migration or implementation plans your engineering teams can execute directly.
+- Structured knowledge transfer and handover sessions for internal stakeholders.
 
- - Assessment of the problem area and architectural gap analysis
-- Solution options with cost/value analysis and trade-offs
-- Documented current-state architecture
-- Documented target-state architecture
-- A practical implementation plan approved by the business
-- Structured documentation and knowledge transfer to enable teams to implement the changes
+## Commercials & IR35
 
-## Rates
+Engagements can be structured on either an inside or outside IR35 basis depending on the brief, scope of work, and operational context.
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
-
-Day rates and commercial arrangements can be discussed following the initial scoping conversation.
-
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+Day rates and commercial arrangements are tailored to the project requirements and agreed transparently following the initial scoping conversation.

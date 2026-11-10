@@ -1,86 +1,73 @@
 ---
 layout: services
-title: High Level Systems Assessment
-description: "Strategic assessment of systems/platforms to align with business goals."
+title: High Level Architecture Assessment
+description: "Architectural evaluation of platforms to align technical direction with business strategy."
+providers:
+  - Jessica
 ---
 
-As an architect and senior technology leader, I have extensive experience conducting high-level systems assessments. These engagements are often necessary to ensure the technical direction of a platform aligns with a company’s long-term business goals.
+A high-level systems assessment looks at whether the technical direction of your platform still supports your organisation’s long-term business goals.
 
-Organisations typically reach a point where external architectural guidance is needed to help define or realign their technical strategy. This often occurs during periods of rapid growth, when engineering teams are given autonomy to make local decisions but lack the communication structures needed to maintain platform-wide cohesion.
+Led by Jessica Brentnall, this service provides an experienced, independent architectural eye across your technical estate. It is designed to step back, evaluate the platform as a whole, and map out a practical, evolutionary path forward—without ego, judgment, or pushing for an unnecessary ground-up rewrite.
 
-A systems assessment provides an opportunity to step back and evaluate the platform as a whole, identifying areas where improved alignment, architectural consistency, or strategic direction can help the organisation move forward more effectively.
+## When an Architectural Assessment Makes Sense
 
-## What a High-Level Systems Assessment Can Support
+As platforms scale, teams are often given the autonomy to make local technical decisions. Over time, however, the structures needed to keep the overall platform coherent can fall behind. Bringing in an independent assessment helps bridge that gap in several common scenarios:
 
-There are several scenarios where a systems assessment can be a valuable first step.
+### Aligning Strategy with Business Goals
 
-### Strategic Technical Direction
+When the business has clear commercial objectives but lacks a defined technical path to get there, an assessment brings immediate clarity. We look at today’s platform architecture, identify where it diverges from your ambitions, and map out realistic strategic options to close the gap.
 
-When a business has clear long-term objectives but lacks a defined technical path to achieve them, a systems assessment can provide the necessary clarity.
+### De-risking Complex Initiatives
 
-This involves discovery and analysis of the existing platform architecture, followed by a gap analysis that identifies where the current state differs from what is required to support the organisation’s goals.
+Before you commit to a major platform refactor or launch a complex new initiative, getting a clear picture of system dependencies and technical debt upfront stops you from running into expensive dead-ends six months down the line.
 
-The outcome is a structured report highlighting:
-- Opportunities for architectural improvement
-- Areas of technical risk
-- Strategic options for evolving the platform
+### Assessing Regulated & Compliant Systems
 
-This insight can then inform future technical initiatives, deeper architectural analysis, or a structured programme of change.
+When your platform handles sensitive data or operates under strict regulatory oversight, standard architectural reviews aren't enough. We evaluate your systems specifically against compliance expectations, whether that involves data residency, audit trails, security controls, or regulatory frameworks, ensuring your technical estate satisfies auditors without grinding engineering delivery to a halt.
 
-### Complex or Large-Scale Projects
+### Evolving Legacy & Pre-Loved Estates
 
-For large or technically complex initiatives that impact multiple systems or teams, starting with a high-level systems assessment can significantly improve project outcomes.
-
-A clear understanding of the current platform architecture, dependencies, and risks enables organisations to make better architectural decisions early in the process, reducing the likelihood of costly redesigns later.
+Every system was built with care and dedication at some point, often under tight financial or time constraints that are no longer visible today. As business goals shift, those once-sensible decisions can leave a platform feeling neglected, slowing delivery momentum and exhausting engineering teams. We specialize in taking pre-loved, debt-heavy systems and stepping them up to a maintainable standard. That means evaluating the platform against core architectural pillars, such as security, cost efficiency, and operational resilience, to build a practical, step-by-step plan that makes your software fit to support the business again.
 
 ## Engagement Format
 
-Before beginning an engagement, we will have an initial scoping conversation to understand the organisation’s current platform and strategic goals.
+Work starts with a scoping conversation about the current platform, its operational context, and your strategic objectives.
 
-During this discussion I will typically ask about:
+That discussion typically covers:
 - The number of deployed services or systems.
 - The approximate size and structure of engineering teams.
 - Key business objectives for the platform.
-- The outcomes the organisation hopes to achieve from the engagement.
+- The specific outcomes required from the engagement.
 
-Based on this information, I will propose an engagement structure and estimated timelines.
-
-Each engagement is tailored to the organisation, but a typical delivery structure may include:
+While every assessment is tailored to your scope and time-frame, ranging from a focused health check to a comprehensive platform review, a typical engagement follows five clear phases:
 
 #### Phase 1: Discovery & Assessment
-A focused discovery phase to develop a clear understanding of the business context, current architecture, and organisational structure.
+A focused discovery phase to understand the business context, current architecture, and how the organisation is organised.
 
 #### Phase 2: Gap Analysis Report
-A structured analysis of the current system landscape, highlighting architectural gaps, technical risks, and opportunities for improvement.
+A structured look at the current landscape, highlighting architectural gaps, technical risks, and opportunities for improvement.
 
 #### Phase 3: Strategy Proposal
-Synthesis of discovery findings into a coherent technical strategy aligned with the organisation’s business goals.
+Translating those findings into a technical strategy that directly aligns with your business goals.
 
 #### Phase 4: Roadmap & Target Architectures
-Translation of the agreed strategy into a high level roadmap and any short term supporting target architectures.
+A high-level roadmap and the short-term target architectures needed to support incremental evolution.
 
 #### Phase 5: Handover
-A structured handover to ensure internal teams can confidently move forward with the proposed changes.
+A structured handover so internal teams can take the work forward with clarity and confidence.
 
 ## Example Expected Outcomes
 
-At the start of the engagement we will agree on specific deliverables for each phase.
+Specific deliverables for each phase are agreed upon during initial scoping. Typical outcomes include:
 
-Examples of deliverables may include:
-
-- Platform-wide architectural gap analysis
-- Detailed report highlighting areas for improvement and technical risk
+- Platform-wide architectural gap analysis.
+- Technical risk and debt assessment report.
 - Cost/value analysis of potential architectural changes
-- High-level plans/roadmap aligned with business goals
+- Pragmatic target architectures and an actionable roadmap aligned with business goals.
 
-## Rates
+## Commercials & IR35
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+Engagements can be structured on either an inside or outside IR35 basis depending on the brief, scope of work, and operational context.
 
-Day rates and commercial arrangements can be discussed following the initial scoping conversation.
-
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+Day rates and commercial arrangements are tailored to the platform scope and agreed transparently following the initial scoping conversation.

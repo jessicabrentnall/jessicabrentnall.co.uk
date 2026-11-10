@@ -5,8 +5,6 @@ description: "Aligning Architectural Strategy with Platform Scalability"
 date: 2026-05-20
 ---
 
-**Role:** Head of Architecture
-
 **Focus:** Architectural Strategy, Roadmap Alignment, and Bridging Product Ambition with Platform Scalability.
 
 ## Executive Summary

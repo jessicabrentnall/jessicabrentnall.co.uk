@@ -1,4 +1,4 @@
-title: Jessica Brentnall
+title: JBrentnall Digital
 url: https://jessicabrentnall.co.uk
 
 plugins:
@@ -96,6 +96,16 @@ defaults:
       type: case-studies
     values:
       layout: case-studies
+  - scope:
+      path: _testimonials/jessica
+      type: testimonials
+    values:
+      person: jessica
+  - scope:
+      path: _testimonials/moreton
+      type: testimonials
+    values:
+      person: moreton
 
 # Tags
 tag_page_dir: tag

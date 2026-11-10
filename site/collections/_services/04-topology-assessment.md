@@ -2,100 +2,77 @@
 layout: services
 title: Engineering Topology Assessment
 description: "Optimising team structure and interactions to accelerate delivery and clarify ownership."
+providers:
+  - Jessica
+  - Moreton
 ---
 
-In some organisations, the way engineering teams are structured can significantly impact the ability to deliver software effectively. For smaller systems supported by only a few engineers, this is often less noticeable. However, as systems grow in size and complexity, team structure becomes increasingly important.
+How your engineering teams are structured directly impacts how efficiently your software gets delivered. On smaller systems, team boundaries are easy to navigate. As platforms and organisations scale, however, team design becomes one of the biggest factors in delivery speed, system stability, and engineer retention.
 
-Ideally, engineering teams should be organised to support effective communication and ownership. The fewer teams that need to coordinate to deliver a change, the easier it becomes to move quickly and safely.
+An engineering topology assessment evaluates how your teams are set up today, how they interact with the systems they support, and whether your current structure accelerates delivery or creates unnecessary friction. The goal is simple: to align team structures around real system boundaries and value streams, creating clear ownership and smoother flow without corporate fluff.
 
-There is no single “perfect” team design. The optimal structure depends on the nature of the systems being built, the types of changes being made, and the frequency at which those changes occur.
+## When a Topology Assessment Makes Sense
 
-An engineering topology assessment examines how teams are currently structured, how they interact with the systems they support, and whether the current organisation enables or hinders delivery.
+Teams operate best when they have clear domain ownership and minimal coordination friction. Bringing in an independent review helps resolve several common organisational pain points:
 
-## Signs You Might Benefit From an Engineering Topology Assessment
+### Resolving Cross-Team Dependencies
+Shipping simple features requires coordination across multiple teams, causing handoffs, long waiting times, and delivery delays.
 
-Organisations often consider an engineering topology assessment when they start experiencing challenges such as:
+### Unclear System Ownership
+Responsibility for key platform components, shared libraries, or legacy codebases is split or fuzzy, leaving teams unsure of who owns what.
 
-- Changes require coordination across multiple teams, slowing down delivery.
-- System ownership is unclear, with multiple teams responsible for overlapping areas.
-- Teams frequently block each other due to dependencies in the architecture.
-- Platform or infrastructure teams are overloaded supporting too many product teams.
-- Rapid company growth has outpaced organisational design, leaving team structures unclear.
-- Engineering leaders feel the organisation is becoming harder to scale, even though headcount is increasing.
+### Stretched Platform & Infrastructure Teams
+Internal platform or operational teams are overwhelmed by ad-hoc support requests from product teams, acting as a bottleneck rather than an enabler.
 
-In these situations, reviewing how teams are organised around systems and capabilities can help restore delivery flow and improve long-term scalability.
+### Scaling Friction
+Headcount has grown, but delivery velocity has slowed. Leadership overhead feels increasingly heavy, and traditional management structures are struggling to keep up.
 
-## Types of Engagement
+### Aligning Team & System Boundaries
+Engineering teams are structured around functional silos rather than system capabilities, creating constant architectural and communication friction.
 
-I have seen many organisations reach this stage as their systems and teams scale. There are a couple of forms of engagement I can offer to support.
+## Areas of Focus
 
-### Engineering Topology Assessment
+Depending on your current challenges, engagements typically focus on two core pillars:
 
-An engineering topology assessment begins with a discovery phase to understand how engineering work is currently delivered across the organisation.
+### Team Topologies & Operating Models
+We evaluate your current delivery patterns, system architecture, and team interactions to design a practical operating model. By aligning teams around clear system boundaries, capabilities, or value streams, we help you reduce cognitive load, clarify ownership, and establish communication patterns that let teams ship safely and autonomously.
 
-This typically includes reviewing:
-- Recent engineering initiatives and how they were delivered.
-- The systems currently supported by engineering teams.
-- Team structures and reporting lines.
-- The distribution of skills and responsibilities across teams.
-- Dependencies between teams when delivering changes.
-
-From this analysis, I develop a recommended team topology and operating model alignment. This outlines how teams could be structured around systems, capabilities, or value streams to improve delivery flow, clarity of ownership, cross-team communication and long-term organisational scalability.
-
-The outcome is not simply a new org chart, but a practical framework for structuring teams in a way that better supports the organisation’s engineering goals.
-
-### Professional Pathways
-
-In many organisations, unclear or inconsistent career progression frameworks can contribute to organisational friction and make it difficult for engineers to grow into leadership roles.
-
-As part of a topology engagement, I can also support the development or refinement of engineering professional pathways.
-
-This involves defining clear expectations for different levels of engineering seniority, including technical responsibilities, leadership expectations and/or scope of architectural ownership.
-
-Clear professional pathways help organisations:
-- Support engineers in progressing their careers
-- Identify leadership potential earlier
-- Ensure consistent expectations across teams
-- Strengthen the pipeline for future technical leadership roles
+### Engineering Professional Pathways
+Organisational structure only works when engineers understand their role within it. We help design or refine clear engineering career frameworks, defining expectations across technical mastery, leadership, and architectural ownership at every level of seniority. This provides your people with a transparent growth path and helps you cultivate internal leadership.
 
 ## Engagement Format
 
-Before beginning the engagement, we will hold an initial discussion to understand the organisation’s engineering structure, platform complexity, and current challenges.
+Work begins with a scoping conversation to discuss your organisational layout, platform complexity, and the delivery friction you are experiencing.
 
-Based on this conversation, I will propose a structure for the engagement. While each organisation is different, a typical approach may include:
+While every engagement is tailored to your scale and operational context, a typical review follows five structured phases:
 
 #### Phase 1: Discovery & Assessment
-A structured discovery process involving interviews with engineering leaders and teams, along with a review of systems, team structures, and recent delivery patterns.
+Interviews with engineering leaders and delivery teams, alongside a review of your current systems and team structures.
 
-#### Phase 2: Topology Analysis
-Analysis of current team interactions, dependencies, and delivery constraints to identify areas where the current organisational design may be impacting delivery.
+#### Phase 2: Topology & Interaction Analysis
+Mapping out actual delivery patterns, cross-team dependencies, and cognitive load to pinpoint where organisational design is creating bottlenecks.
 
 #### Phase 3: Recommended Team Topology
-Development of a proposed team structure and operating model aligned to system boundaries, capabilities, or value streams.
+Designing a target team structure and operating model explicitly aligned to your system boundaries, capabilities, or value streams.
 
-#### Phase 4: Organisational Alignment
-Where appropriate, defining supporting changes such as professional pathways, ownership models, or communication patterns.
+#### Phase 4: Organisational & Pathway Alignment
+Refining supporting structures—such as domain ownership models, communication channels, or engineering career pathways, to embed the changes.
 
 #### Phase 5: Handover
-Presentation of findings and recommendations, along with documentation to enable the organisation to implement changes internally.
+Documented findings, target topologies, and actionable guidance so internal leadership can roll out structural changes with clarity and confidence.
 
 ## Example Expected Outcomes
 
-At the start of the engagement we will agree the specific deliverables expected. These may include:
-- Assessment of current engineering team structures
-- Identification of delivery bottlenecks caused by organisational design
-- Analysis of system ownership and cross-team dependencies
-- Recommended team topology aligned to system boundaries or value streams
-- Optional development or refinement of engineering professional pathways
+Specific deliverables are tailored to the brief, but typical outcomes include:
 
-## Rates
+- Comprehensive assessment of current engineering team structures and interactions.
+- Identification of delivery bottlenecks caused by organisational design.
+- Clear domain ownership mapping and dependency reduction strategies.
+- Practical recommended team topology aligned with architectural boundaries.
+- Refined engineering career frameworks and professional pathways (where requested).
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+## Commercials & IR35
 
-Day rates and commercial arrangements can be discussed following the initial scoping conversation.
+Engagements can be structured on either an inside or outside IR35 basis depending on the brief, scope of work, and operational context.
 
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+Day rates and commercial terms are tailored to the organization size and agreed transparently following the initial scoping conversation.

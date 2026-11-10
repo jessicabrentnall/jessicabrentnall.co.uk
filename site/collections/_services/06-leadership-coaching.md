@@ -2,78 +2,74 @@
 layout: services
 title: Leadership Coaching
 description: "Coaching technical leaders to grow influence, lead teams, and deliver strategic impact."
+providers:
+  - Jessica
 ---
 
-I have extensive experience coaching engineers and architects to help them reach their full potential as technical leaders. This experience comes both from my time as an engineering manager and through independent mentoring outside of formal roles.
+Leadership coaching at JBrentnall Digital is designed for engineering organisations looking to elevate, de-risk, and retain their technical leaders. Led directly by Jessica Brentnall, this service provides high-potential engineers, architects, and technical managers with the strategic grounding, organisational influence, and executive presence needed to lead complex initiatives, without relying on generic corporate management theory.
 
-I have worked with individuals at many different stages of their careers, from engineers early in their professional journey through to lead engineers and architects operating at senior levels.
+Whether supporting a newly promoted lead engineer navigating their first multi-team platform rollout or a senior architect expanding their executive impact, coaching bridges the gap between hands-on engineering and strategic business leadership.
 
-The goal of these sessions is to help technical professionals develop the skills, mindset, and confidence required to operate effectively in leadership roles.
+## When Leadership Coaching Makes Sense
 
-## Areas of Coaching
+Technical leadership brings organisational and strategic challenges that rarely come with a manual. 1:1 coaching provides a dedicated, confidential space to accelerate leadership capability across several common scenarios:
 
-Coaching sessions are tailored to the individual, but common areas of focus include:
+### Stepping Up to Strategic Initiatives
+Supporting technical leads taking on major platform refactors, migrations, or architectural shifts. Coaching helps them frame technical proposals around business goals, build cross-team alignment, and win executive buy-in.
 
-### Leading a Specific Project
+### Transitioning from Contributor to Leader
+Guiding senior or principal engineers stepping into formal Tech Lead or Engineering Manager roles. We focus on the practical craft of leading others: prioritising team capacity, balancing technical debt against product features, and mentoring senior peers.
 
-Supporting engineers or architects who are responsible for leading a significant technical initiative.
+### Bridging Tech Strategy with Business ROI
+Helping technical specialists communicate effectively with non-technical executives, product directors, and commercial stakeholders, turning complex architectural trade-offs into clear business decisions.
 
-This may include guidance on:
-- Planning and roadmap development.
-- Stakeholder engagement and communication.
-- Working effectively across multiple teams.
-- Building trust and gaining organisational buy-in.
+### Retaining Key Senior Talent
+High-performing technical leaders often hit friction when navigating organisational complexity. Independent coaching provides an objective sounding board and dedicated professional development, keeping your best technical minds engaged and supported.
 
-Through regular sessions, I help individuals navigate the challenges of leading complex projects and identify the most effective ways to move initiatives forward.
+---
 
-### Strategic Systems Thinking
+## Core Focus Areas
 
-Helping individuals develop the ability to think about systems and platforms at a strategic level.
+Sessions adapt dynamically to immediate organisational challenges while building long-term capability across key pillars:
 
-This includes techniques for:
-- Identifying strategic technical work.
-- Framing proposals for architectural change.
-- Aligning technical improvements with business goals.
-- Contributing effectively to company roadmaps
-
-### Career Growth and Development Planning
-
-During the initial sessions we will work together to understand the individual’s strengths, areas for development, and long-term career aspirations.
-
-From this, we will create a structured development plan focused on strengthening key skills and building the experience needed to reach their desired career trajectory.
-
-### Managing a Technical Team
-
-For individuals who are responsible for managing engineering teams, coaching can focus on developing leadership and management capabilities.
-
-Topics may include:
-- Structuring and prioritising work within a team.
-- Developing and mentoring team members.
-- Building balanced teams with complementary skill sets.
-- Managing and supporting high-performing engineers.
+- **Technical Strategy & Business Alignment:** Learning how to pitch architectural debt, platform investments, and technical roadmaps in language commercial leadership understands.
+- **Influence & Stakeholder Navigation:** Building trust and alignment across product managers, executive peers, and delivery teams without relying on positional authority.
+- **RFC & Proposal Review:** Offline review and feedback on real-world technical artifacts, such as draft RFCs, architectural decision records (ADRs), and strategic proposals, before they are presented to stakeholders.
+- **Team Dynamics & Mentorship:** Developing pragmatic coaching techniques to elevate senior engineers, delegate effectively, and cultivate resilient engineering cultures.
 
 ## Engagement Format
 
-Coaching sessions take place on a regular cadence, agreed at the start of the engagement. Typically this will be a one-hour session every two weeks, or a one-hour session once per month.
+Coaching engagements are structured around defined, outcome-focused retainers to ensure continuous growth aligned with organisational goals. 
 
-During the first session we will explore:
-- The individual’s experience and current role.
-- The areas where they are seeking coaching.
-- Any specific projects or challenges they are currently facing.
-- Their longer-term career goals.
+While individual needs vary, a typical engagement follows five structured phases:
 
-This allows us to define a structure and focus for future sessions.
+### Phase 1: Sponsor & Leadership Alignment
+An initial alignment call with the corporate sponsor (e.g., CTO, VPE, or Head of Engineering) to establish key business context, organisational goals, and focus areas for the coachee.
 
-The coaching approach is fully tailored to the individual, ensuring that sessions remain relevant to their needs and professional development.
+### Phase 2: Intake & Goal Setting
+A deep-dive intake session with the coachee to evaluate current responsibilities, immediate live project friction, and personal leadership objectives.
 
-## Rates
+### Phase 3: Bi-Weekly Coaching & Artifact Review
+Regular 1:1 coaching sessions (typically every two weeks) combined with offline reviews of live technical proposals, RFCs, or team roadmaps.
 
-Coaching sessions are charged at half a day’s rate per session. This reflects not only the session itself, but also the preparation and follow-up work required to ensure each session delivers meaningful value.
+### Phase 4: Workplace Application & Feedback
+Applying strategies directly within delivery teams between sessions, followed by structured reflection and refinement based on real-world outcomes.
 
-In most cases, coaching engagements are sponsored by the individual’s employer as part of their professional development, although other arrangements can be discussed if required.
+### Phase 5: Progress Review & Milestone Check-in
+Periodic, light-touch check-ins to evaluate growth against initial objectives, confirm alignment with business goals, and set the direction for ongoing advisory support.
 
----
+## Example Expected Outcomes
 
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+Specific outcomes are tailored to the coachee’s role and organisational brief, but typical results include:
+
+- Faster executive approval for major technical proposals and architectural investments.
+- Increased confidence leading complex, multi-team technical initiatives.
+- Smoother transitions from individual contributor roles into strategic technical leadership.
+- Stronger cross-functional alignment between engineering, product, and commercial stakeholders.
+- Concrete professional development that improves senior technical talent retention.
+
+## Commercials & Retainers
+
+Coaching engagements are structured as sponsored corporate retainers (typically covering 3-month or 6-month blocks) or billed at half a day’s rate per bi-weekly session. 
+
+Fees cover 1:1 sessions, session preparation, mid-point sponsor check-ins, and offline reviews of key technical artifacts (such as RFCs, ADRs, and roadmap proposals). Engagements are typically funded directly by the client organisation as part of senior leadership enablement and professional development.

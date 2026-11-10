@@ -1,59 +1,55 @@
 ---
 layout: services
-title: Interim CTO & Senior Leadership
+title: Interim C-Suite / Senior Leadership
 description: "Experienced interim leadership to maintain continuity and strategic direction."
+providers:
+  - Jessica
+  - Moreton
 ---
 
+Fractional and interim senior leadership is for businesses going through complex technical or organisational change. We step into engineering, architecture, platform, and security leadership roles on either a full-time interim basis or a fractional (part-time) arrangement, keeping momentum high and strategy clear without the commitment of an immediate permanent executive hire.
 
-I serve in Interim CTO and senior leadership capacities, guiding engineering, architecture, and platform organisations through complex technical challenges.
+## Leadership Roles We Cover
 
-I offer these services on an interim basis for roles such as:
+- **CTO / Executive Engineering Leadership.** Executive-level direction, strategic clarity, and technical oversight.
+- **CISO / Head of Security.** Senior security leadership, pragmatically balancing governance with operational risk.
+- **Head of Architecture.** Joining up enterprise technical strategy with real-world delivery across existing and evolving estates.
+- **Head of Engineering / Engineering Director.** Supporting high-growth delivery teams, refining team structures, and establishing effective ways of working.
+- **Head of Platform & Infrastructure.** Building resilience, reducing technical debt, and driving operational stability.
 
-- **CTO & Interim Engineering Leadership.** Providing executive-level strategic direction.  
-- **Head of Architecture.** Overseeing enterprise-wide technical strategy and governance.  
-- **Head of Platform & Infrastructure.** Driving resilience and operational excellence.  
-- **Head of Engineering / Engineering Director.** Managing high-growth delivery teams and organisational topology.  
-
-These engagements provide organisations with experienced technical leadership for a defined period of time, ensuring continuity of leadership and strategic direction while the business navigates periods of transition.
+Our approach is all about continuity and partnership: low-ego, client-first leadership designed to leave your teams stronger, happier, and clear on direction long after the engagement finishes.
 
 ## When an Interim Leader May Be Needed
 
-There are several scenarios where bringing in an interim Head of Architecture, Platform, or Engineering can be beneficial.
+Leaving a senior technical role vacant creates friction, but rushing an executive hire creates long-term debt. Bringing in interim leadership bridges that gap effectively across several common scenarios:
 
-### Cover During Leave
+### Cover During Planned or Unplanned Leave
 
-A senior leader may require time away from the business due to parental leave, illness, or a sabbatical. During this period, I can step into the role to maintain continuity of leadership, ensuring teams remain aligned and strategic initiatives continue to progress.
+When a senior leader needs time away, whether for parental leave, illness, or a sabbatical, interim cover keeps strategic work moving and ensures teams retain clear context and mentorship.
 
-### Cover While Hiring a Permanent Leader
+### Continuity While Hiring a Permanent Leader
 
-Recruiting into senior technical leadership positions can take time, and organisations often want to avoid rushing such an important hire. An interim leader can provide stability during the recruitment process, ensuring the organisation continues to move forward until a permanent appointment is made.
+Finding the right permanent senior leader takes time. An interim leader holds the space, maintains alignment, and keeps delivery on track so you can recruit deliberately rather than urgently.
 
-### Supporting the Transition of an Internal Promotion
+### Supporting Internal Promotions
 
-In some cases, organisations wish to promote an internal candidate into a leadership role but recognise that the individual may benefit from additional experience or a phased transition.
-
-In these situations, I can temporarily cover aspects of the role while mentoring the internal candidate and supporting a structured transition into full leadership responsibility.
+Promoting from within is often the best long-term decision, but stepping into senior executive responsibility can be a huge leap. We provide fractional or phased interim cover to anchor the function, mentor the candidate, and ensure a structured, supported transition into full ownership.
 
 ## Engagement Format
 
-The exact format of the engagement will depend on the organisation’s context and leadership needs.
+Every organisation’s context is different. We tailor working patterns to what the brief actually requires—whether that is dedicated interim cover (_typically 4 days per week_) or a fractional arrangement (_1–2 days per week_).
 
-An initial discussion will allow us to:
-- Clarify the scope of responsibilities
-- Understand the organisational structure and current challenges
-- Define expectations for the interim leadership role
-- Determine whether I am the right fit for the organisation
+We start with a straightforward scoping conversation to:
 
-Following this discussion, we can agree on an engagement structure that provides the leadership support required while ensuring a smooth transition back to a permanent role holder.
+- Define the immediate goals and core responsibilities of the role.
+- Map out the team structure, current technical debt, and key organisational challenges.
+- Agree on what success looks like, including a clear plan for handover.
+- Confirm whether this is the right fit, and who is best placed for the brief.
 
-## Rates
+From there, we set a clean engagement structure that provides immediate stability and builds a seamless path forwards.
 
-Engagements can be structured on either an inside or outside IR35 basis, depending on the nature of the work and client requirements. 
+## Commercials & IR35
 
-Day rates and commercial arrangements can be discussed following the initial scoping conversation.
+Engagements are structured on either an inside or outside IR35 basis depending on the brief, scope of work, and operational context.
 
----
-
-<div style="text-align:center" markdown="1">
-<img src="{{site.baseurl}}/images/postlogo.png" width="150" alt="Logo of JBRENTNALL DIGITAL, a company offering Architecture & Engineering Leadership on a contract basis">
-</div>
+Day rates and commercial terms are tailored to the role requirements and agreed transparently following our initial scoping conversation.

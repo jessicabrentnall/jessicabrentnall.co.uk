@@ -85,8 +85,6 @@ A few things have consistently helped:
 
 That is the trust you owe the people who remain: not a heroic exit, but a foundation, and a way of working, they can stand on.
 
----
-
 ## Moving Forward
 
 Complex platforms, regulation, and growing teams need clear thinking and practical delivery. Moving from quick-and-dirty delivery to a foundation you can actually build on is entirely possible. It needs honest assessment, enough time with the people who will keep the work going, and leadership that treats trust, and risk, as part of the architecture, not a soft extra.
